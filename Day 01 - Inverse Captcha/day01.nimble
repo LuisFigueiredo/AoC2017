@@ -7,7 +7,8 @@ license       = "MIT"
 
 # Dependencies
 
-requires "nim >= 0.17.3"
+requires "nim >= 0.17.2"
 
+# Task runners
 task run, "builds and runs the day 01 application":
   exec "nim c -r -d:release day01.nim"
