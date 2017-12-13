@@ -1,20 +1,34 @@
 import os, strutils, sequtils
 
 
-var checksum = 0
+proc strToInt(x: string): int =
+  if (x.isDigit()):
+    return x.parseInt
+  return 0
+
+var checksum: int = 0
 
 for line in lines "input.txt":
-  var max = low(int)
-  var min = high(int)
+  var
+    maxDiv: int = 0
+    minDiv: int  = 0
 
-  # convert the seq[string] -> line.splitWhitespace()
-  # to seq[int] with map -> proc(x: string): int = x.parseInt
-  for num in map(line.splitWhitespace(), proc(x: string): int = x.parseInt):
-    if num > max:
-      max = num
-    if num < min:
-      min = num
+  let intLine = map(line.splitWhitespace(), strToInt)
+  block found:
+    for i in 0..<intLine.len:
+      for j in 0..<intLine.len:
+        if i != j:
+          if intLine[i] > intLine[j]:
+            if intLine[i] mod intLine[j] == 0:
+              maxDiv = intLine[i]
+              minDiv = intLine[j]
+              break found
+          else:
+            if intLine[j] mod intLine[i] == 0:
+              maxDiv = intLine[j]
+              minDiv = intLine[i]
+              break found
 
-  checksum += max - min
+  checksum += maxDiv div minDiv
 
 echo checksum
