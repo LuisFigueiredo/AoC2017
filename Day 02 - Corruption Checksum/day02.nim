@@ -2,9 +2,8 @@ import os, strutils, sequtils
 
 
 proc strToInt(x: string): int =
-  if (x.isDigit()):
-    return x.parseInt
-  return 0
+  try: x.parseInt
+  except ValueError: 0
 
 var checksum: int = 0
 
