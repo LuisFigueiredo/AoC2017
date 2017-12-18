@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "Lu\xC3\xADs Figueiredo"
-description   = "Day 04"
+description   = "Day 05"
 license       = "MIT"
 
 # Dependencies
