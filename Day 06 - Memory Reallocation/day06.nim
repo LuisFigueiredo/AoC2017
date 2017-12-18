@@ -13,7 +13,7 @@ var
   # part2
   looped: int = 0
   loopSize:int = 0
-  loopedInput: seq[int]
+  loopedInput: seq[int] = @[]
 
 let cycleSize = input.len
 
@@ -38,12 +38,14 @@ while looped != 2:
   for bIndex in 0..<cycleSize-penalty:
     input[(mIndex + bIndex + 1) mod cycleSize] += toSpread
 
-  if prevStates.contains(input):
-    loopedInput = input
-    looped.inc
   if looped > 0:
     loopSize.inc
+    if input == loopedInput:
+      looped.inc
   else:
+    if prevStates.contains(input):
+      loopedInput = input
+      looped.inc
     cycles.inc
 
 echo input
