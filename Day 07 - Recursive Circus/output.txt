@@ -1,0 +1,1950 @@
+  Executing task run in E:\Nim\AoC2017\Day 07 - Recursive Circus\day07.nimble
+CC: day07_day07
+Root: cyrupz
+Mismatch! cyrupz: 119424 != 119432
+cyrupz (55) -> @[(a: whbqia, b: 119424), (a: sopjux, b: 119424), (a: cfcdlh, b: 119424), (a: wuluv, b: 119424), (a: uwmocg, b: 119424), (a: xtcpynj, b: 119424), (a: qjvtm, b: 119432)]
+whbqia (23682) -> @[(a: uiges, b: 15957), (a: jtwfdu, b: 15957), (a: spqvn, b: 15957), (a: gworrlc, b: 15957), (a: mgene, b: 15957), (a: aycnip, b: 15957)]
+uiges (14517) -> @[(a: tetbx, b: 240), (a: hhexmn, b: 240), (a: ytgqzq, b: 240), (a: dakenrk, b: 240), (a: uwscgd, b: 240), (a: yyauqx, b: 240)]
+tetbx (120) -> @[(a: shwph, b: 30), (a: vuydl, b: 30), (a: dqxhlmf, b: 30), (a: yjqdgq, b: 30)]
+shwph (30)
+vuydl (30)
+dqxhlmf (30)
+yjqdgq (30)
+hhexmn (225) -> @[(a: hcvfmh, b: 5), (a: aywgi, b: 5), (a: bcyusmh, b: 5)]
+hcvfmh (5)
+aywgi (5)
+bcyusmh (5)
+ytgqzq (62) -> @[(a: ddiqs, b: 89), (a: jgdqth, b: 89)]
+ddiqs (89)
+jgdqth (89)
+dakenrk (222) -> @[(a: axstuln, b: 9), (a: tkxots, b: 9)]
+axstuln (9)
+tkxots (9)
+uwscgd (48) -> @[(a: bjkfl, b: 96), (a: jpjbtm, b: 96)]
+bjkfl (96)
+jpjbtm (96)
+yyauqx (80) -> @[(a: lislxi, b: 80), (a: rotbjjy, b: 80)]
+lislxi (80)
+rotbjjy (80)
+jtwfdu (3727) -> @[(a: pavabvy, b: 2446), (a: lqorouz, b: 2446), (a: wbydzcm, b: 2446), (a: bqggi, b: 2446), (a: vtzgyeg, b: 2446)]
+pavabvy (1241) -> @[(a: grbnbad, b: 241), (a: lcobq, b: 241), (a: sinfhwq, b: 241), (a: vmdwgiy, b: 241), (a: xvjmz, b: 241)]
+grbnbad (199) -> @[(a: mltftcq, b: 21), (a: gepue, b: 21)]
+mltftcq (21)
+gepue (21)
+lcobq (109) -> @[(a: yafph, b: 66), (a: bczzzw, b: 66)]
+yafph (66)
+bczzzw (66)
+sinfhwq (219) -> @[(a: tsdpmhr, b: 11), (a: xcaqylz, b: 11)]
+tsdpmhr (11)
+xcaqylz (11)
+vmdwgiy (45) -> @[(a: itpjbr, b: 98), (a: mxtcb, b: 98)]
+itpjbr (98)
+mxtcb (98)
+xvjmz (155) -> @[(a: aktlwea, b: 43), (a: jxszqd, b: 43)]
+aktlwea (43)
+jxszqd (43)
+lqorouz (721) -> @[(a: kgxmev, b: 345), (a: zrrklpo, b: 345), (a: lazovhv, b: 345), (a: cajloqp, b: 345), (a: jstihz, b: 345)]
+kgxmev (215) -> @[(a: rthyaa, b: 65), (a: zvzzst, b: 65)]
+rthyaa (65)
+zvzzst (65)
+zrrklpo (345)
+lazovhv (153) -> @[(a: deagdif, b: 96), (a: jasamk, b: 96)]
+deagdif (96)
+jasamk (96)
+cajloqp (327) -> @[(a: milnj, b: 9), (a: dsycw, b: 9)]
+milnj (9)
+dsycw (9)
+jstihz (93) -> @[(a: ulymdk, b: 84), (a: uiqzhqu, b: 84), (a: vhzoa, b: 84)]
+ulymdk (84)
+uiqzhqu (84)
+vhzoa (84)
+wbydzcm (686) -> @[(a: ahtqrem, b: 440), (a: iwbzsq, b: 440), (a: jafvw, b: 440), (a: cyyjrf, b: 440)]
+ahtqrem (358) -> @[(a: cohgcil, b: 41), (a: pkejtl, b: 41)]
+cohgcil (41)
+pkejtl (41)
+iwbzsq (416) -> @[(a: kemdk, b: 6), (a: iefjz, b: 6), (a: vhvmcal, b: 6), (a: qygtd, b: 6)]
+kemdk (6)
+iefjz (6)
+vhvmcal (6)
+qygtd (6)
+jafvw (395) -> @[(a: gznxb, b: 15), (a: suwehi, b: 15), (a: brrvjn, b: 15)]
+gznxb (15)
+suwehi (15)
+brrvjn (15)
+cyyjrf (56) -> @[(a: gmobt, b: 96), (a: hlsvyhx, b: 96), (a: ngwdz, b: 96), (a: hrrzu, b: 96)]
+gmobt (96)
+hlsvyhx (96)
+ngwdz (96)
+hrrzu (96)
+bqggi (1915) -> @[(a: ilsvcl, b: 177), (a: czksrye, b: 177), (a: chihy, b: 177)]
+ilsvcl (95) -> @[(a: dqabk, b: 41), (a: efvwgf, b: 41)]
+dqabk (41)
+efvwgf (41)
+czksrye (51) -> @[(a: uphktul, b: 63), (a: llpllm, b: 63)]
+uphktul (63)
+llpllm (63)
+chihy (108) -> @[(a: mxbid, b: 23), (a: iayol, b: 23), (a: ceibzne, b: 23)]
+mxbid (23)
+iayol (23)
+ceibzne (23)
+vtzgyeg (59) -> @[(a: ingzgv, b: 341), (a: khaxl, b: 341), (a: cejlti, b: 341), (a: iuuck, b: 341), (a: alsrt, b: 341), (a: fpwfhqa, b: 341), (a: sabkxwy, b: 341)]
+ingzgv (199) -> @[(a: brxtyug, b: 71), (a: nfexc, b: 71)]
+brxtyug (71)
+nfexc (71)
+khaxl (251) -> @[(a: yzfbc, b: 45), (a: jjrcs, b: 45)]
+yzfbc (45)
+jjrcs (45)
+cejlti (341)
+iuuck (93) -> @[(a: gwkdpj, b: 62), (a: ximfci, b: 62), (a: wlfzzwr, b: 62), (a: mopos, b: 62)]
+gwkdpj (62)
+ximfci (62)
+wlfzzwr (62)
+mopos (62)
+alsrt (189) -> @[(a: dvpjab, b: 76), (a: ipwdq, b: 76)]
+dvpjab (76)
+ipwdq (76)
+fpwfhqa (317) -> @[(a: ocxbu, b: 6), (a: bqzya, b: 6), (a: wevkbue, b: 6), (a: roprp, b: 6)]
+ocxbu (6)
+bqzya (6)
+wevkbue (6)
+roprp (6)
+sabkxwy (189) -> @[(a: zddnqld, b: 76), (a: gomrr, b: 76)]
+zddnqld (76)
+gomrr (76)
+spqvn (12168) -> @[(a: vwbwicx, b: 1263), (a: vqanko, b: 1263), (a: cqtuah, b: 1263)]
+vwbwicx (285) -> @[(a: yjsminx, b: 163), (a: wfnzaoj, b: 163), (a: aaavm, b: 163), (a: ftdkcfr, b: 163), (a: itfiqj, b: 163), (a: xzmnjz, b: 163)]
+yjsminx (19) -> @[(a: txbkss, b: 72), (a: psisfe, b: 72)]
+txbkss (72)
+psisfe (72)
+wfnzaoj (133) -> @[(a: zqnrzvk, b: 15), (a: marrb, b: 15)]
+zqnrzvk (15)
+marrb (15)
+aaavm (163)
+ftdkcfr (163)
+itfiqj (163)
+xzmnjz (59) -> @[(a: diiqyx, b: 26), (a: pahywto, b: 26), (a: ucozsnh, b: 26), (a: zwjuqr, b: 26)]
+diiqyx (26)
+pahywto (26)
+ucozsnh (26)
+zwjuqr (26)
+vqanko (399) -> @[(a: ygcph, b: 216), (a: dbqlqa, b: 216), (a: oawaasr, b: 216), (a: ajacjz, b: 216)]
+ygcph (126) -> @[(a: irsrtbm, b: 45), (a: krvnq, b: 45)]
+irsrtbm (45)
+krvnq (45)
+dbqlqa (38) -> @[(a: csmgexg, b: 89), (a: djzbom, b: 89)]
+csmgexg (89)
+djzbom (89)
+oawaasr (158) -> @[(a: jpadrxu, b: 29), (a: ylepv, b: 29)]
+jpadrxu (29)
+ylepv (29)
+ajacjz (174) -> @[(a: mthaau, b: 21), (a: ifogeft, b: 21)]
+mthaau (21)
+ifogeft (21)
+cqtuah (63) -> @[(a: flays, b: 400), (a: hkqdsjx, b: 400), (a: zcszxf, b: 400)]
+flays (52) -> @[(a: uyflsu, b: 87), (a: awhgs, b: 87), (a: apwqbdt, b: 87), (a: vmcdxsc, b: 87)]
+uyflsu (87)
+awhgs (87)
+apwqbdt (87)
+vmcdxsc (87)
+hkqdsjx (360) -> @[(a: wpzcj, b: 20), (a: tnrej, b: 20)]
+wpzcj (20)
+tnrej (20)
+zcszxf (368) -> @[(a: fmnil, b: 16), (a: mjoctb, b: 16)]
+fmnil (16)
+mjoctb (16)
+gworrlc (14712) -> @[(a: aaizfj, b: 249), (a: nqayozt, b: 249), (a: xftjd, b: 249), (a: whpjefc, b: 249), (a: dnpbek, b: 249)]
+aaizfj (105) -> @[(a: qiqvce, b: 72), (a: pwqisw, b: 72)]
+qiqvce (72)
+pwqisw (72)
+nqayozt (69) -> @[(a: mruoew, b: 45), (a: vogdr, b: 45), (a: ihquo, b: 45), (a: ngbto, b: 45)]
+mruoew (45)
+vogdr (45)
+ihquo (45)
+ngbto (45)
+xftjd (93) -> @[(a: racbcat, b: 78), (a: zefywno, b: 78)]
+racbcat (78)
+zefywno (78)
+whpjefc (231) -> @[(a: oglqg, b: 6), (a: jpyaa, b: 6), (a: lycks, b: 6)]
+oglqg (6)
+jpyaa (6)
+lycks (6)
+dnpbek (219) -> @[(a: cbwrev, b: 15), (a: nrtmf, b: 15)]
+cbwrev (15)
+nrtmf (15)
+mgene (12150) -> @[(a: xtckrp, b: 1269), (a: mvlvwo, b: 1269), (a: eyovcb, b: 1269)]
+xtckrp (36) -> @[(a: eelwu, b: 411), (a: kwwhiv, b: 411), (a: brzrx, b: 411)]
+eelwu (83) -> @[(a: ttfhrp, b: 82), (a: sxagng, b: 82), (a: lgpqna, b: 82), (a: qqrqid, b: 82)]
+ttfhrp (82)
+sxagng (82)
+lgpqna (82)
+qqrqid (82)
+kwwhiv (263) -> @[(a: zgltwud, b: 74), (a: weiik, b: 74)]
+zgltwud (74)
+weiik (74)
+brzrx (379) -> @[(a: yjxmv, b: 8), (a: szwdc, b: 8), (a: iwejes, b: 8), (a: xrbipx, b: 8)]
+yjxmv (8)
+szwdc (8)
+iwejes (8)
+xrbipx (8)
+mvlvwo (66) -> @[(a: yogzh, b: 401), (a: xstglba, b: 401), (a: zwtznsv, b: 401)]
+yogzh (305) -> @[(a: mtypps, b: 48), (a: pmytxie, b: 48)]
+mtypps (48)
+pmytxie (48)
+xstglba (297) -> @[(a: qqkvxv, b: 52), (a: fgcjopa, b: 52)]
+qqkvxv (52)
+fgcjopa (52)
+zwtznsv (49) -> @[(a: fwwvg, b: 88), (a: twdlx, b: 88), (a: skhjby, b: 88), (a: kfrar, b: 88)]
+fwwvg (88)
+twdlx (88)
+skhjby (88)
+kfrar (88)
+eyovcb (195) -> @[(a: lhurwx, b: 179), (a: qwqzr, b: 179), (a: tpcmp, b: 179), (a: ngffuwc, b: 179), (a: nmdit, b: 179), (a: xfwju, b: 179)]
+lhurwx (55) -> @[(a: wrwqsw, b: 62), (a: bgcjcd, b: 62)]
+wrwqsw (62)
+bgcjcd (62)
+qwqzr (179)
+tpcmp (87) -> @[(a: mwnczjf, b: 46), (a: ylkwbm, b: 46)]
+mwnczjf (46)
+ylkwbm (46)
+ngffuwc (123) -> @[(a: jjkyj, b: 14), (a: xczaehv, b: 14), (a: xpuly, b: 14), (a: qqdrox, b: 14)]
+jjkyj (14)
+xczaehv (14)
+xpuly (14)
+qqdrox (14)
+nmdit (71) -> @[(a: qcaxee, b: 54), (a: cmtpu, b: 54)]
+qcaxee (54)
+cmtpu (54)
+xfwju (45) -> @[(a: wnteyab, b: 67), (a: zxmpvm, b: 67)]
+wnteyab (67)
+zxmpvm (67)
+aycnip (42) -> @[(a: iyhuvj, b: 3183), (a: kunzaag, b: 3183), (a: ftimasv, b: 3183), (a: zxcjlk, b: 3183), (a: mlvpmj, b: 3183)]
+iyhuvj (19) -> @[(a: nopmvrz, b: 452), (a: fzivpz, b: 452), (a: nzskcw, b: 452), (a: pkhhbp, b: 452), (a: edpkt, b: 452), (a: eodye, b: 452), (a: lyxaz, b: 452)]
+nopmvrz (340) -> @[(a: rrfyhi, b: 56), (a: lrhclhk, b: 56)]
+rrfyhi (56)
+lrhclhk (56)
+fzivpz (64) -> @[(a: espkomt, b: 97), (a: nfpfpq, b: 97), (a: mjkgsg, b: 97), (a: mkdxj, b: 97)]
+espkomt (97)
+nfpfpq (97)
+mjkgsg (97)
+mkdxj (97)
+nzskcw (400) -> @[(a: dtbgg, b: 26), (a: yyhsmd, b: 26)]
+dtbgg (26)
+yyhsmd (26)
+pkhhbp (452)
+edpkt (368) -> @[(a: ohgyus, b: 42), (a: pofye, b: 42)]
+ohgyus (42)
+pofye (42)
+eodye (116) -> @[(a: eaxlxoy, b: 84), (a: sbovaf, b: 84), (a: fkawsxk, b: 84), (a: uvfhx, b: 84)]
+eaxlxoy (84)
+sbovaf (84)
+fkawsxk (84)
+uvfhx (84)
+lyxaz (388) -> @[(a: ohkkn, b: 32), (a: fphhjt, b: 32)]
+ohkkn (32)
+fphhjt (32)
+kunzaag (2592) -> @[(a: mgvovnb, b: 197), (a: ftntagd, b: 197), (a: ggmjft, b: 197)]
+mgvovnb (127) -> @[(a: blntgdj, b: 35), (a: dzdgx, b: 35)]
+blntgdj (35)
+dzdgx (35)
+ftntagd (27) -> @[(a: qkshp, b: 85), (a: zwxkyn, b: 85)]
+qkshp (85)
+zwxkyn (85)
+ggmjft (197)
+ftimasv (1482) -> @[(a: ibszdcc, b: 243), (a: mohlj, b: 243), (a: srsuyk, b: 243), (a: zprakvq, b: 243), (a: xppxn, b: 243), (a: mswjlev, b: 243), (a: tuytxy, b: 243)]
+ibszdcc (151) -> @[(a: bavhssu, b: 23), (a: ikxcldw, b: 23), (a: ahaan, b: 23), (a: afejk, b: 23)]
+bavhssu (23)
+ikxcldw (23)
+ahaan (23)
+afejk (23)
+mohlj (185) -> @[(a: ockjo, b: 29), (a: fbfqvq, b: 29)]
+ockjo (29)
+fbfqvq (29)
+srsuyk (75) -> @[(a: ensngra, b: 56), (a: kskmxw, b: 56), (a: jyxztzm, b: 56)]
+ensngra (56)
+kskmxw (56)
+jyxztzm (56)
+zprakvq (213) -> @[(a: ixruqck, b: 10), (a: vohmteg, b: 10), (a: havmool, b: 10)]
+ixruqck (10)
+vohmteg (10)
+havmool (10)
+xppxn (191) -> @[(a: btsvt, b: 13), (a: duckgf, b: 13), (a: hnfjb, b: 13), (a: hjwug, b: 13)]
+btsvt (13)
+duckgf (13)
+hnfjb (13)
+hjwug (13)
+mswjlev (107) -> @[(a: jfdud, b: 68), (a: knpefcs, b: 68)]
+jfdud (68)
+knpefcs (68)
+tuytxy (65) -> @[(a: nteuv, b: 89), (a: jsdzajv, b: 89)]
+nteuv (89)
+jsdzajv (89)
+zxcjlk (2139) -> @[(a: llmhaad, b: 348), (a: oykcbpj, b: 348), (a: pnbzj, b: 348)]
+llmhaad (156) -> @[(a: bkzfd, b: 96), (a: irxbhi, b: 96)]
+bkzfd (96)
+irxbhi (96)
+oykcbpj (298) -> @[(a: acwtk, b: 25), (a: mxogohe, b: 25)]
+acwtk (25)
+mxogohe (25)
+pnbzj (60) -> @[(a: vbrpgbe, b: 96), (a: cuupma, b: 96), (a: yddiq, b: 96)]
+vbrpgbe (96)
+cuupma (96)
+yddiq (96)
+mlvpmj (2598) -> @[(a: vppppj, b: 195), (a: jpyfzy, b: 195), (a: irxpuis, b: 195)]
+vppppj (141) -> @[(a: gamtq, b: 27), (a: fbmcsl, b: 27)]
+gamtq (27)
+fbmcsl (27)
+jpyfzy (31) -> @[(a: xjdxfb, b: 82), (a: hclhewh, b: 82)]
+xjdxfb (82)
+hclhewh (82)
+irxpuis (89) -> @[(a: rjxxk, b: 53), (a: jbbpzze, b: 53)]
+rjxxk (53)
+jbbpzze (53)
+sopjux (81) -> @[(a: tddqw, b: 17049), (a: iumspgx, b: 17049), (a: ojsntix, b: 17049), (a: uxuwgmz, b: 17049), (a: ehwofnh, b: 17049), (a: zrtrhph, b: 17049), (a: rujdblh, b: 17049)]
+tddqw (11164) -> @[(a: tzumnfw, b: 1177), (a: ahxse, b: 1177), (a: iixhucd, b: 1177), (a: flywvww, b: 1177), (a: jylvi, b: 1177)]
+tzumnfw (1029) -> @[(a: nttyljj, b: 74), (a: rwmqvs, b: 74)]
+nttyljj (74)
+rwmqvs (74)
+ahxse (331) -> @[(a: qwtss, b: 141), (a: stqsnlz, b: 141), (a: bgibn, b: 141), (a: vjrrptz, b: 141), (a: ehqap, b: 141), (a: pdawj, b: 141)]
+qwtss (91) -> @[(a: duruha, b: 25), (a: qebjnbs, b: 25)]
+duruha (25)
+qebjnbs (25)
+stqsnlz (89) -> @[(a: odvasfk, b: 26), (a: eieqwo, b: 26)]
+odvasfk (26)
+eieqwo (26)
+bgibn (75) -> @[(a: vmbeqe, b: 33), (a: ikdpgy, b: 33)]
+vmbeqe (33)
+ikdpgy (33)
+vjrrptz (60) -> @[(a: vwzfk, b: 27), (a: vaziim, b: 27), (a: fwoavaz, b: 27)]
+vwzfk (27)
+vaziim (27)
+fwoavaz (27)
+ehqap (141)
+pdawj (39) -> @[(a: ytxlw, b: 51), (a: ozackw, b: 51)]
+ytxlw (51)
+ozackw (51)
+iixhucd (13) -> @[(a: fwssgyj, b: 194), (a: kkzzctu, b: 194), (a: fpuuwxw, b: 194), (a: subedu, b: 194), (a: ycnfy, b: 194), (a: vkufxby, b: 194)]
+fwssgyj (126) -> @[(a: ncdnc, b: 34), (a: isxqmc, b: 34)]
+ncdnc (34)
+isxqmc (34)
+kkzzctu (12) -> @[(a: ygoxtx, b: 91), (a: zjlqjvv, b: 91)]
+ygoxtx (91)
+zjlqjvv (91)
+fpuuwxw (184) -> @[(a: aowql, b: 5), (a: ycnqav, b: 5)]
+aowql (5)
+ycnqav (5)
+subedu (96) -> @[(a: aijyga, b: 49), (a: hmsfs, b: 49)]
+aijyga (49)
+hmsfs (49)
+ycnfy (194)
+vkufxby (184) -> @[(a: ewlryhh, b: 5), (a: dhpoh, b: 5)]
+ewlryhh (5)
+dhpoh (5)
+flywvww (598) -> @[(a: cqgdvfr, b: 193), (a: dhugaw, b: 193), (a: whszfc, b: 193)]
+cqgdvfr (13) -> @[(a: kpgzhfa, b: 90), (a: uembj, b: 90)]
+kpgzhfa (90)
+uembj (90)
+dhugaw (145) -> @[(a: gdbut, b: 24), (a: gkbmdh, b: 24)]
+gdbut (24)
+gkbmdh (24)
+whszfc (135) -> @[(a: illzp, b: 29), (a: droaqx, b: 29)]
+illzp (29)
+droaqx (29)
+jylvi (535) -> @[(a: kjonnd, b: 214), (a: fisyh, b: 214), (a: ayuwm, b: 214)]
+kjonnd (128) -> @[(a: vfuywa, b: 43), (a: zttbwuj, b: 43)]
+vfuywa (43)
+zttbwuj (43)
+fisyh (46) -> @[(a: dpygp, b: 84), (a: nglwlyl, b: 84)]
+dpygp (84)
+nglwlyl (84)
+ayuwm (214)
+iumspgx (1713) -> @[(a: fqpfnc, b: 2556), (a: lnuve, b: 2556), (a: oyrmwz, b: 2556), (a: zcptsvh, b: 2556), (a: znqux, b: 2556), (a: grgkrf, b: 2556)]
+fqpfnc (876) -> @[(a: wymlcoj, b: 280), (a: rhsqn, b: 280), (a: rpcczq, b: 280), (a: vhdbfe, b: 280), (a: novtxck, b: 280), (a: svypeua, b: 280)]
+wymlcoj (205) -> @[(a: rovaby, b: 25), (a: hyvhosf, b: 25), (a: ibfxt, b: 25)]
+rovaby (25)
+hyvhosf (25)
+ibfxt (25)
+rhsqn (204) -> @[(a: afiqx, b: 38), (a: hmdvz, b: 38)]
+afiqx (38)
+hmdvz (38)
+rpcczq (134) -> @[(a: jnpwbjj, b: 73), (a: fawadg, b: 73)]
+jnpwbjj (73)
+fawadg (73)
+vhdbfe (214) -> @[(a: wurjtrm, b: 33), (a: pfbukuq, b: 33)]
+wurjtrm (33)
+pfbukuq (33)
+novtxck (234) -> @[(a: oijissd, b: 23), (a: mozuwfi, b: 23)]
+oijissd (23)
+mozuwfi (23)
+svypeua (94) -> @[(a: dpcpy, b: 62), (a: phxuazm, b: 62), (a: txdyn, b: 62)]
+dpcpy (62)
+phxuazm (62)
+txdyn (62)
+lnuve (840) -> @[(a: zjowzz, b: 286), (a: cllhod, b: 286), (a: uzzuddz, b: 286), (a: agzideh, b: 286), (a: mzfmw, b: 286), (a: chzno, b: 286)]
+zjowzz (67) -> @[(a: ebcls, b: 73), (a: lratbc, b: 73), (a: kvztqrg, b: 73)]
+ebcls (73)
+lratbc (73)
+kvztqrg (73)
+cllhod (286)
+uzzuddz (146) -> @[(a: dgzcgr, b: 70), (a: anprhpf, b: 70)]
+dgzcgr (70)
+anprhpf (70)
+agzideh (214) -> @[(a: eelrlu, b: 36), (a: mxrvwib, b: 36)]
+eelrlu (36)
+mxrvwib (36)
+mzfmw (206) -> @[(a: wwwep, b: 20), (a: yitoepf, b: 20), (a: idgrh, b: 20), (a: nqjsdi, b: 20)]
+wwwep (20)
+yitoepf (20)
+idgrh (20)
+nqjsdi (20)
+chzno (264) -> @[(a: lrqskol, b: 11), (a: mcponby, b: 11)]
+lrqskol (11)
+mcponby (11)
+oyrmwz (42) -> @[(a: fvbygj, b: 419), (a: omzvw, b: 419), (a: ieejg, b: 419), (a: qahbhq, b: 419), (a: vjaffbt, b: 419), (a: poywgwi, b: 419)]
+fvbygj (419)
+omzvw (83) -> @[(a: owaqfb, b: 84), (a: betkfui, b: 84), (a: xklmcmc, b: 84), (a: avemla, b: 84)]
+owaqfb (84)
+betkfui (84)
+xklmcmc (84)
+avemla (84)
+ieejg (255) -> @[(a: islbpsv, b: 82), (a: fcfujgr, b: 82)]
+islbpsv (82)
+fcfujgr (82)
+qahbhq (151) -> @[(a: emyiqu, b: 67), (a: znslgho, b: 67), (a: dtgnqs, b: 67), (a: eupya, b: 67)]
+emyiqu (67)
+znslgho (67)
+dtgnqs (67)
+eupya (67)
+vjaffbt (391) -> @[(a: cdqpv, b: 14), (a: pavbfb, b: 14)]
+cdqpv (14)
+pavbfb (14)
+poywgwi (419)
+zcptsvh (1651) -> @[(a: qmwbv, b: 181), (a: kiueoo, b: 181), (a: biner, b: 181), (a: mjfnukc, b: 181), (a: anlopt, b: 181)]
+qmwbv (157) -> @[(a: tcksxcj, b: 12), (a: ccxsuk, b: 12)]
+tcksxcj (12)
+ccxsuk (12)
+kiueoo (181)
+biner (121) -> @[(a: qvvgle, b: 20), (a: aptrqbk, b: 20), (a: nmcxmr, b: 20)]
+qvvgle (20)
+aptrqbk (20)
+nmcxmr (20)
+mjfnukc (83) -> @[(a: sbvopw, b: 49), (a: kgclit, b: 49)]
+sbvopw (49)
+kgclit (49)
+anlopt (139) -> @[(a: apbzweg, b: 21), (a: zcxsxky, b: 21)]
+apbzweg (21)
+zcxsxky (21)
+znqux (302) -> @[(a: rocyko, b: 322), (a: guaqgw, b: 322), (a: operlbg, b: 322), (a: yzmeb, b: 322), (a: ukedg, b: 322), (a: vlxqvi, b: 322), (a: mveyx, b: 322)]
+rocyko (218) -> @[(a: rgzrfak, b: 52), (a: trabc, b: 52)]
+rgzrfak (52)
+trabc (52)
+guaqgw (130) -> @[(a: vjfkl, b: 96), (a: pwhdea, b: 96)]
+vjfkl (96)
+pwhdea (96)
+operlbg (322)
+yzmeb (74) -> @[(a: bouvy, b: 62), (a: ziaty, b: 62), (a: uamdcy, b: 62), (a: xvbro, b: 62)]
+bouvy (62)
+ziaty (62)
+uamdcy (62)
+xvbro (62)
+ukedg (262) -> @[(a: elhde, b: 30), (a: aeeyxh, b: 30)]
+elhde (30)
+aeeyxh (30)
+vlxqvi (266) -> @[(a: dzbqu, b: 28), (a: qnmgp, b: 28)]
+dzbqu (28)
+qnmgp (28)
+mveyx (190) -> @[(a: hjhaae, b: 44), (a: bnbvm, b: 44), (a: gsxxi, b: 44)]
+hjhaae (44)
+bnbvm (44)
+gsxxi (44)
+grgkrf (1515) -> @[(a: rxbohqw, b: 347), (a: ijhvxea, b: 347), (a: tzhto, b: 347)]
+rxbohqw (75) -> @[(a: qubxyhi, b: 68), (a: lipbj, b: 68), (a: kvfwsoc, b: 68), (a: vdezdp, b: 68)]
+qubxyhi (68)
+lipbj (68)
+kvfwsoc (68)
+vdezdp (68)
+ijhvxea (347)
+tzhto (297) -> @[(a: jaxczdp, b: 25), (a: bphpr, b: 25)]
+jaxczdp (25)
+bphpr (25)
+ojsntix (6025) -> @[(a: xinyot, b: 2756), (a: pklfpox, b: 2756), (a: suzkkr, b: 2756), (a: fhifg, b: 2756)]
+xinyot (75) -> @[(a: hdtplwx, b: 383), (a: tzehi, b: 383), (a: aeylapx, b: 383), (a: zcwclwc, b: 383), (a: dobuzav, b: 383), (a: prfyjj, b: 383), (a: kuycibx, b: 383)]
+hdtplwx (255) -> @[(a: gahopg, b: 64), (a: dqmcksd, b: 64)]
+gahopg (64)
+dqmcksd (64)
+tzehi (199) -> @[(a: swkfz, b: 92), (a: vhjri, b: 92)]
+swkfz (92)
+vhjri (92)
+aeylapx (383)
+zcwclwc (289) -> @[(a: jdvwj, b: 47), (a: oqixvwe, b: 47)]
+jdvwj (47)
+oqixvwe (47)
+dobuzav (11) -> @[(a: tmzvfia, b: 93), (a: ihmixw, b: 93), (a: emdolt, b: 93), (a: hhqks, b: 93)]
+tmzvfia (93)
+ihmixw (93)
+emdolt (93)
+hhqks (93)
+prfyjj (283) -> @[(a: kljhkzg, b: 50), (a: mgmmqpf, b: 50)]
+kljhkzg (50)
+mgmmqpf (50)
+kuycibx (236) -> @[(a: opkren, b: 49), (a: muztqt, b: 49), (a: swoxpas, b: 49)]
+opkren (49)
+muztqt (49)
+swoxpas (49)
+pklfpox (781) -> @[(a: tnuvu, b: 395), (a: irtey, b: 395), (a: inggl, b: 395), (a: nlztkoh, b: 395), (a: vrbpoms, b: 395)]
+tnuvu (395)
+irtey (395)
+inggl (261) -> @[(a: qgudtwk, b: 67), (a: myfcqxe, b: 67)]
+qgudtwk (67)
+myfcqxe (67)
+nlztkoh (383) -> @[(a: jektqvn, b: 6), (a: cjikbu, b: 6)]
+jektqvn (6)
+cjikbu (6)
+vrbpoms (35) -> @[(a: nezlnj, b: 90), (a: pysmz, b: 90), (a: wctwj, b: 90), (a: oyumlz, b: 90)]
+nezlnj (90)
+pysmz (90)
+wctwj (90)
+oyumlz (90)
+suzkkr (2330) -> @[(a: ezilows, b: 142), (a: ndfxn, b: 142), (a: vwledx, b: 142)]
+ezilows (80) -> @[(a: osaofz, b: 31), (a: bdnrzjl, b: 31)]
+osaofz (31)
+bdnrzjl (31)
+ndfxn (48) -> @[(a: brxmlaa, b: 47), (a: nlbvsaj, b: 47)]
+brxmlaa (47)
+nlbvsaj (47)
+vwledx (142)
+fhifg (1924) -> @[(a: lkfcgw, b: 208), (a: magml, b: 208), (a: tjrdifv, b: 208), (a: sefzkr, b: 208)]
+lkfcgw (40) -> @[(a: ckpsa, b: 84), (a: jqkrk, b: 84)]
+ckpsa (84)
+jqkrk (84)
+magml (150) -> @[(a: pyklnj, b: 29), (a: gfdyw, b: 29)]
+pyklnj (29)
+gfdyw (29)
+tjrdifv (98) -> @[(a: sybqi, b: 55), (a: errqggj, b: 55)]
+sybqi (55)
+errqggj (55)
+sefzkr (118) -> @[(a: igfvkh, b: 45), (a: upvzg, b: 45)]
+igfvkh (45)
+upvzg (45)
+uxuwgmz (8379) -> @[(a: lhopv, b: 2890), (a: vexiqv, b: 2890), (a: tjnerh, b: 2890)]
+lhopv (48) -> @[(a: uuxwz, b: 406), (a: byxxgzt, b: 406), (a: fpenvio, b: 406), (a: pdyjzd, b: 406), (a: qsetl, b: 406), (a: rhhlps, b: 406), (a: yceabf, b: 406)]
+uuxwz (360) -> @[(a: kjbps, b: 23), (a: idxgock, b: 23)]
+kjbps (23)
+idxgock (23)
+byxxgzt (386) -> @[(a: nyghbkz, b: 10), (a: unjxp, b: 10)]
+nyghbkz (10)
+unjxp (10)
+fpenvio (262) -> @[(a: gwdrk, b: 72), (a: ugzxbjw, b: 72)]
+gwdrk (72)
+ugzxbjw (72)
+pdyjzd (142) -> @[(a: zfjuv, b: 88), (a: hqbunkc, b: 88), (a: ghkyui, b: 88)]
+zfjuv (88)
+hqbunkc (88)
+ghkyui (88)
+qsetl (310) -> @[(a: isesfdw, b: 48), (a: fsdvpk, b: 48)]
+isesfdw (48)
+fsdvpk (48)
+rhhlps (318) -> @[(a: jvhnuoq, b: 44), (a: cfhbh, b: 44)]
+jvhnuoq (44)
+cfhbh (44)
+yceabf (14) -> @[(a: hnoakdg, b: 98), (a: zcegp, b: 98), (a: myytdk, b: 98), (a: ewfpgoj, b: 98)]
+hnoakdg (98)
+zcegp (98)
+myytdk (98)
+ewfpgoj (98)
+vexiqv (2359) -> @[(a: ncsglzf, b: 177), (a: gwfkzhk, b: 177), (a: ozmoirq, b: 177)]
+ncsglzf (151) -> @[(a: tsasgm, b: 13), (a: phltmve, b: 13)]
+tsasgm (13)
+phltmve (13)
+gwfkzhk (43) -> @[(a: qbnwlwe, b: 67), (a: draxijw, b: 67)]
+qbnwlwe (67)
+draxijw (67)
+ozmoirq (107) -> @[(a: oitkdg, b: 35), (a: xsbjwz, b: 35)]
+oitkdg (35)
+xsbjwz (35)
+tjnerh (2780) -> @[(a: ahhqrp, b: 55), (a: rlnee, b: 55)]
+ahhqrp (55)
+rlnee (55)
+ehwofnh (18) -> @[(a: kvopnl, b: 2433), (a: kaihb, b: 2433), (a: ocstme, b: 2433), (a: hszuim, b: 2433), (a: mjnjzet, b: 2433), (a: dhhcmdj, b: 2433), (a: ndflhsj, b: 2433)]
+kvopnl (99) -> @[(a: nddzkn, b: 389), (a: lcxeysi, b: 389), (a: mvjii, b: 389), (a: fagsd, b: 389), (a: sylbpy, b: 389), (a: uriyyc, b: 389)]
+nddzkn (271) -> @[(a: hoiju, b: 59), (a: hroegp, b: 59)]
+hoiju (59)
+hroegp (59)
+lcxeysi (275) -> @[(a: pfqyoho, b: 57), (a: mnjhqkb, b: 57)]
+pfqyoho (57)
+mnjhqkb (57)
+mvjii (41) -> @[(a: rffho, b: 87), (a: rjuizk, b: 87), (a: dbqujc, b: 87), (a: nadgwb, b: 87)]
+rffho (87)
+rjuizk (87)
+dbqujc (87)
+nadgwb (87)
+fagsd (303) -> @[(a: hrciraz, b: 43), (a: lnnhuld, b: 43)]
+hrciraz (43)
+lnnhuld (43)
+sylbpy (355) -> @[(a: omtrskm, b: 17), (a: mhzpj, b: 17)]
+omtrskm (17)
+mhzpj (17)
+uriyyc (261) -> @[(a: vlzoz, b: 32), (a: worqvps, b: 32), (a: flcyx, b: 32), (a: lzfuzm, b: 32)]
+vlzoz (32)
+worqvps (32)
+flcyx (32)
+lzfuzm (32)
+kaihb (1131) -> @[(a: kxotrd, b: 217), (a: qxcds, b: 217), (a: cagiues, b: 217), (a: edcrp, b: 217), (a: olvnqyu, b: 217), (a: cibabc, b: 217)]
+kxotrd (61) -> @[(a: sjyymi, b: 78), (a: wrtarf, b: 78)]
+sjyymi (78)
+wrtarf (78)
+qxcds (27) -> @[(a: qmnjlw, b: 95), (a: hvche, b: 95)]
+qmnjlw (95)
+hvche (95)
+cagiues (101) -> @[(a: ffakxgn, b: 58), (a: derfr, b: 58)]
+ffakxgn (58)
+derfr (58)
+edcrp (141) -> @[(a: lxyirze, b: 38), (a: hfqij, b: 38)]
+lxyirze (38)
+hfqij (38)
+olvnqyu (23) -> @[(a: kuwuy, b: 97), (a: gcbrstj, b: 97)]
+kuwuy (97)
+gcbrstj (97)
+cibabc (181) -> @[(a: neihdi, b: 9), (a: yaqlguh, b: 9), (a: cjhxpn, b: 9), (a: obxki, b: 9)]
+neihdi (9)
+yaqlguh (9)
+cjhxpn (9)
+obxki (9)
+ocstme (1659) -> @[(a: terrhqm, b: 258), (a: jdpncg, b: 258), (a: jlpfu, b: 258)]
+terrhqm (242) -> @[(a: ydpxkx, b: 8), (a: pdebsm, b: 8)]
+ydpxkx (8)
+pdebsm (8)
+jdpncg (90) -> @[(a: oqpxd, b: 56), (a: sifvsqc, b: 56), (a: rrdin, b: 56)]
+oqpxd (56)
+sifvsqc (56)
+rrdin (56)
+jlpfu (144) -> @[(a: avrfz, b: 57), (a: ywuqf, b: 57)]
+avrfz (57)
+ywuqf (57)
+hszuim (2409) -> @[(a: yrdsxpn, b: 12), (a: nlehenc, b: 12)]
+yrdsxpn (12)
+nlehenc (12)
+mjnjzet (153) -> @[(a: mopevhs, b: 380), (a: hvyscq, b: 380), (a: ugtpfof, b: 380), (a: qnbxo, b: 380), (a: qerhwfp, b: 380), (a: xojyah, b: 380)]
+mopevhs (220) -> @[(a: cnnajhy, b: 80), (a: ywsjwhi, b: 80)]
+cnnajhy (80)
+ywsjwhi (80)
+hvyscq (282) -> @[(a: zagrlc, b: 49), (a: rrohj, b: 49)]
+zagrlc (49)
+rrohj (49)
+ugtpfof (302) -> @[(a: uhmypt, b: 39), (a: sdhvw, b: 39)]
+uhmypt (39)
+sdhvw (39)
+qnbxo (206) -> @[(a: nxfjeuy, b: 87), (a: teafht, b: 87)]
+nxfjeuy (87)
+teafht (87)
+qerhwfp (122) -> @[(a: vxbieux, b: 86), (a: wcmif, b: 86), (a: aktlne, b: 86)]
+vxbieux (86)
+wcmif (86)
+aktlne (86)
+xojyah (84) -> @[(a: ojlgsc, b: 74), (a: ghbhqnl, b: 74), (a: ztngdq, b: 74), (a: wwtvhb, b: 74)]
+ojlgsc (74)
+ghbhqnl (74)
+ztngdq (74)
+wwtvhb (74)
+dhhcmdj (1815) -> @[(a: glwvlc, b: 206), (a: escef, b: 206), (a: weelykw, b: 206)]
+glwvlc (74) -> @[(a: wqbwqi, b: 66), (a: hjjfc, b: 66)]
+wqbwqi (66)
+hjjfc (66)
+escef (184) -> @[(a: akzwfo, b: 11), (a: ltweydr, b: 11)]
+akzwfo (11)
+ltweydr (11)
+weelykw (46) -> @[(a: vqmckky, b: 80), (a: hzxgz, b: 80)]
+vqmckky (80)
+hzxgz (80)
+ndflhsj (1709) -> @[(a: azzpq, b: 181), (a: ngbourw, b: 181), (a: ypccy, b: 181), (a: jmpyaib, b: 181)]
+azzpq (153) -> @[(a: ssngqqp, b: 14), (a: lebuxmo, b: 14)]
+ssngqqp (14)
+lebuxmo (14)
+ngbourw (45) -> @[(a: kmmng, b: 68), (a: vyiufa, b: 68)]
+kmmng (68)
+vyiufa (68)
+ypccy (39) -> @[(a: itimbmg, b: 71), (a: ekzro, b: 71)]
+itimbmg (71)
+ekzro (71)
+jmpyaib (69) -> @[(a: rhinivh, b: 56), (a: uplalh, b: 56)]
+rhinivh (56)
+uplalh (56)
+zrtrhph (6535) -> @[(a: czwrn, b: 1502), (a: jaiqco, b: 1502), (a: tppwhd, b: 1502), (a: wcgfkq, b: 1502), (a: ynsjo, b: 1502), (a: vhysl, b: 1502), (a: nuwaia, b: 1502)]
+czwrn (1100) -> @[(a: ykoyzh, b: 134), (a: wuavkqo, b: 134), (a: tvgfdb, b: 134)]
+ykoyzh (12) -> @[(a: sqdyn, b: 61), (a: ghbmnod, b: 61)]
+sqdyn (61)
+ghbmnod (61)
+wuavkqo (68) -> @[(a: davnh, b: 33), (a: mukkakg, b: 33)]
+davnh (33)
+mukkakg (33)
+tvgfdb (88) -> @[(a: kcawhph, b: 23), (a: genete, b: 23)]
+kcawhph (23)
+genete (23)
+jaiqco (950) -> @[(a: ctbubmz, b: 184), (a: vaale, b: 184), (a: jhrxncw, b: 184)]
+ctbubmz (134) -> @[(a: tebbb, b: 25), (a: qljqbt, b: 25)]
+tebbb (25)
+qljqbt (25)
+vaale (90) -> @[(a: idfja, b: 47), (a: hwvkbv, b: 47)]
+idfja (47)
+hwvkbv (47)
+jhrxncw (20) -> @[(a: jeejn, b: 82), (a: fylvsj, b: 82)]
+jeejn (82)
+fylvsj (82)
+tppwhd (46) -> @[(a: zpxbc, b: 364), (a: buhoxvf, b: 364), (a: nyqht, b: 364), (a: asgmujz, b: 364)]
+zpxbc (118) -> @[(a: cletkls, b: 82), (a: krvtfsj, b: 82), (a: budohp, b: 82)]
+cletkls (82)
+krvtfsj (82)
+budohp (82)
+buhoxvf (184) -> @[(a: jcalbf, b: 90), (a: anendx, b: 90)]
+jcalbf (90)
+anendx (90)
+nyqht (16) -> @[(a: qmryr, b: 87), (a: kljfbe, b: 87), (a: fqfdw, b: 87), (a: rewfxf, b: 87)]
+qmryr (87)
+kljfbe (87)
+fqfdw (87)
+rewfxf (87)
+asgmujz (270) -> @[(a: sqypk, b: 47), (a: pzoji, b: 47)]
+sqypk (47)
+pzoji (47)
+wcgfkq (630) -> @[(a: zermehr, b: 218), (a: tfaxln, b: 218), (a: zvtsnz, b: 218), (a: rukmtyd, b: 218)]
+zermehr (66) -> @[(a: buwffdx, b: 76), (a: icojter, b: 76)]
+buwffdx (76)
+icojter (76)
+tfaxln (196) -> @[(a: kloow, b: 11), (a: vpmyvzz, b: 11)]
+kloow (11)
+vpmyvzz (11)
+zvtsnz (176) -> @[(a: jpcais, b: 21), (a: pgllqy, b: 21)]
+jpcais (21)
+pgllqy (21)
+rukmtyd (192) -> @[(a: wfaus, b: 13), (a: zeipd, b: 13)]
+wfaus (13)
+zeipd (13)
+ynsjo (190) -> @[(a: zxymd, b: 328), (a: wxruhqa, b: 328), (a: ckatuf, b: 328), (a: hablmj, b: 328)]
+zxymd (206) -> @[(a: gyxopp, b: 61), (a: ychlsfn, b: 61)]
+gyxopp (61)
+ychlsfn (61)
+wxruhqa (16) -> @[(a: dqbhi, b: 78), (a: zykjenf, b: 78), (a: fyvrp, b: 78), (a: ylxgn, b: 78)]
+dqbhi (78)
+zykjenf (78)
+fyvrp (78)
+ylxgn (78)
+ckatuf (280) -> @[(a: uokdqce, b: 16), (a: zhiacn, b: 16), (a: csyuq, b: 16)]
+uokdqce (16)
+zhiacn (16)
+csyuq (16)
+hablmj (310) -> @[(a: jyjvxw, b: 9), (a: ilkrxa, b: 9)]
+jyjvxw (9)
+ilkrxa (9)
+vhysl (346) -> @[(a: ezcmxxy, b: 289), (a: phzap, b: 289), (a: clfvfbd, b: 289), (a: reyaoo, b: 289)]
+ezcmxxy (245) -> @[(a: yjffdl, b: 22), (a: esroty, b: 22)]
+yjffdl (22)
+esroty (22)
+phzap (70) -> @[(a: xnjod, b: 73), (a: bydub, b: 73), (a: lgpsy, b: 73)]
+xnjod (73)
+bydub (73)
+lgpsy (73)
+clfvfbd (167) -> @[(a: wnbbrab, b: 61), (a: bdmmi, b: 61)]
+wnbbrab (61)
+bdmmi (61)
+reyaoo (185) -> @[(a: dpahgkv, b: 52), (a: uqcjwp, b: 52)]
+dpahgkv (52)
+uqcjwp (52)
+nuwaia (1310) -> @[(a: zzypx, b: 96), (a: shdbfhl, b: 96)]
+zzypx (96)
+shdbfhl (96)
+rujdblh (15833) -> @[(a: ihtcuq, b: 304), (a: tvhkggh, b: 304), (a: igjmm, b: 304), (a: pbonnr, b: 304)]
+ihtcuq (70) -> @[(a: uafzt, b: 78), (a: ounuwsx, b: 78), (a: nakiug, b: 78)]
+uafzt (78)
+ounuwsx (78)
+nakiug (78)
+tvhkggh (294) -> @[(a: uhvtx, b: 5), (a: utsyk, b: 5)]
+uhvtx (5)
+utsyk (5)
+igjmm (132) -> @[(a: qndtc, b: 43), (a: vjmhzau, b: 43), (a: nblsqm, b: 43), (a: fdwlwr, b: 43)]
+qndtc (43)
+vjmhzau (43)
+nblsqm (43)
+fdwlwr (43)
+pbonnr (208) -> @[(a: kpxdh, b: 32), (a: izgkl, b: 32), (a: nquecpp, b: 32)]
+kpxdh (32)
+izgkl (32)
+nquecpp (32)
+cfcdlh (96088) -> @[(a: dwtgak, b: 5834), (a: whuak, b: 5834), (a: rqjpza, b: 5834), (a: qpdufu, b: 5834)]
+dwtgak (1742) -> @[(a: yolqpau, b: 1364), (a: paetkc, b: 1364), (a: wjpvpg, b: 1364)]
+yolqpau (641) -> @[(a: nhefqs, b: 241), (a: pfudc, b: 241), (a: gdpmx, b: 241)]
+nhefqs (139) -> @[(a: cpnwxr, b: 34), (a: erlwita, b: 34), (a: raaqp, b: 34)]
+cpnwxr (34)
+erlwita (34)
+raaqp (34)
+pfudc (47) -> @[(a: wdlpc, b: 97), (a: eoeac, b: 97)]
+wdlpc (97)
+eoeac (97)
+gdpmx (77) -> @[(a: gachpm, b: 41), (a: zcohp, b: 41), (a: pqrvq, b: 41), (a: pafhmi, b: 41)]
+gachpm (41)
+zcohp (41)
+pqrvq (41)
+pafhmi (41)
+paetkc (854) -> @[(a: pmttpt, b: 170), (a: ihvtb, b: 170), (a: ucntsl, b: 170)]
+pmttpt (140) -> @[(a: wuwnzr, b: 15), (a: bhfkje, b: 15)]
+wuwnzr (15)
+bhfkje (15)
+ihvtb (130) -> @[(a: pxkxjy, b: 20), (a: vnbuj, b: 20)]
+pxkxjy (20)
+vnbuj (20)
+ucntsl (50) -> @[(a: iakcl, b: 60), (a: vlpbqn, b: 60)]
+iakcl (60)
+vlpbqn (60)
+wjpvpg (53) -> @[(a: tfqel, b: 437), (a: wfnrq, b: 437), (a: mgboos, b: 437)]
+tfqel (49) -> @[(a: vmvnrq, b: 97), (a: mvrpr, b: 97), (a: awnos, b: 97), (a: ezbax, b: 97)]
+vmvnrq (97)
+mvrpr (97)
+awnos (97)
+ezbax (97)
+wfnrq (45) -> @[(a: ccaeaw, b: 98), (a: qdoici, b: 98), (a: cvmgc, b: 98), (a: wpulnl, b: 98)]
+ccaeaw (98)
+qdoici (98)
+cvmgc (98)
+wpulnl (98)
+mgboos (385) -> @[(a: lxeeq, b: 26), (a: wvyht, b: 26)]
+lxeeq (26)
+wvyht (26)
+whuak (62) -> @[(a: idqfawa, b: 1924), (a: ganlaq, b: 1924), (a: odqkxi, b: 1924)]
+idqfawa (1327) -> @[(a: osfsey, b: 199), (a: mfhtd, b: 199), (a: owbhv, b: 199)]
+osfsey (25) -> @[(a: ueikvt, b: 87), (a: ndpwr, b: 87)]
+ueikvt (87)
+ndpwr (87)
+mfhtd (89) -> @[(a: vpqmdqf, b: 55), (a: btxgac, b: 55)]
+vpqmdqf (55)
+btxgac (55)
+owbhv (151) -> @[(a: klaqkg, b: 24), (a: qskjee, b: 24)]
+klaqkg (24)
+qskjee (24)
+ganlaq (1168) -> @[(a: tuuqm, b: 252), (a: kwiiccw, b: 252), (a: ydnsh, b: 252)]
+tuuqm (128) -> @[(a: sokar, b: 62), (a: wtjzsm, b: 62)]
+sokar (62)
+wtjzsm (62)
+kwiiccw (9) -> @[(a: cyxvk, b: 81), (a: hkqulxp, b: 81), (a: nfgme, b: 81)]
+cyxvk (81)
+hkqulxp (81)
+nfgme (81)
+ydnsh (172) -> @[(a: xndzibu, b: 40), (a: pcciu, b: 40)]
+xndzibu (40)
+pcciu (40)
+odqkxi (6) -> @[(a: gvjuwwn, b: 274), (a: quhyxh, b: 274), (a: dqkxvd, b: 274), (a: misjd, b: 274), (a: vmnys, b: 274), (a: rtgpmf, b: 274), (a: lhrml, b: 274)]
+gvjuwwn (244) -> @[(a: evkyf, b: 15), (a: dvispjs, b: 15)]
+evkyf (15)
+dvispjs (15)
+quhyxh (274)
+dqkxvd (112) -> @[(a: wkbqh, b: 81), (a: dnirvcs, b: 81)]
+wkbqh (81)
+dnirvcs (81)
+misjd (92) -> @[(a: fuaaot, b: 91), (a: jocdav, b: 91)]
+fuaaot (91)
+jocdav (91)
+vmnys (100) -> @[(a: npiost, b: 58), (a: shwsc, b: 58), (a: hqesnp, b: 58)]
+npiost (58)
+shwsc (58)
+hqesnp (58)
+rtgpmf (94) -> @[(a: dvoylt, b: 45), (a: llpifh, b: 45), (a: yusdv, b: 45), (a: hvqex, b: 45)]
+dvoylt (45)
+llpifh (45)
+yusdv (45)
+hvqex (45)
+lhrml (164) -> @[(a: ecblhee, b: 55), (a: sdjshz, b: 55)]
+ecblhee (55)
+sdjshz (55)
+rqjpza (1043) -> @[(a: xszbzi, b: 1597), (a: zafhcbb, b: 1597), (a: qoouyiw, b: 1597)]
+xszbzi (13) -> @[(a: sxrjnm, b: 264), (a: ewowmhn, b: 264), (a: qjdzqm, b: 264), (a: tpnnkuw, b: 264), (a: rjfiqcz, b: 264), (a: nowyljq, b: 264)]
+sxrjnm (128) -> @[(a: msrlpql, b: 68), (a: pmczhb, b: 68)]
+msrlpql (68)
+pmczhb (68)
+ewowmhn (63) -> @[(a: xyioev, b: 67), (a: qbepv, b: 67), (a: rqbld, b: 67)]
+xyioev (67)
+qbepv (67)
+rqbld (67)
+qjdzqm (144) -> @[(a: saflt, b: 60), (a: whfwtio, b: 60)]
+saflt (60)
+whfwtio (60)
+tpnnkuw (190) -> @[(a: nxlzxzq, b: 37), (a: fvkqehj, b: 37)]
+nxlzxzq (37)
+fvkqehj (37)
+rjfiqcz (66) -> @[(a: tcujev, b: 66), (a: ycmhi, b: 66), (a: ldehas, b: 66)]
+tcujev (66)
+ycmhi (66)
+ldehas (66)
+nowyljq (184) -> @[(a: getbk, b: 40), (a: eveoo, b: 40)]
+getbk (40)
+eveoo (40)
+zafhcbb (865) -> @[(a: rlfno, b: 244), (a: xpgzx, b: 244), (a: hwssny, b: 244)]
+rlfno (208) -> @[(a: okian, b: 9), (a: cptoly, b: 9), (a: vzhrt, b: 9), (a: akbciz, b: 9)]
+okian (9)
+cptoly (9)
+vzhrt (9)
+akbciz (9)
+xpgzx (48) -> @[(a: zkpghh, b: 98), (a: eawuhm, b: 98)]
+zkpghh (98)
+eawuhm (98)
+hwssny (78) -> @[(a: vpvvmqv, b: 83), (a: dujlhd, b: 83)]
+vpvvmqv (83)
+dujlhd (83)
+qoouyiw (1117) -> @[(a: wwxctxk, b: 160), (a: suslpgz, b: 160), (a: rduns, b: 160)]
+wwxctxk (128) -> @[(a: vczbfs, b: 8), (a: ciaql, b: 8), (a: jmnhj, b: 8), (a: vvyhqon, b: 8)]
+vczbfs (8)
+ciaql (8)
+jmnhj (8)
+vvyhqon (8)
+suslpgz (116) -> @[(a: zvldmx, b: 22), (a: bjtca, b: 22)]
+zvldmx (22)
+bjtca (22)
+rduns (60) -> @[(a: gfhrh, b: 50), (a: sxonkbq, b: 50)]
+gfhrh (50)
+sxonkbq (50)
+qpdufu (3326) -> @[(a: mbmsvws, b: 836), (a: qwqenwn, b: 836), (a: dnodp, b: 836)]
+mbmsvws (662) -> @[(a: yhmclb, b: 87), (a: glcbz, b: 87)]
+yhmclb (87)
+glcbz (87)
+qwqenwn (96) -> @[(a: rrhiz, b: 185), (a: pqeso, b: 185), (a: evliz, b: 185), (a: uvvsl, b: 185)]
+rrhiz (113) -> @[(a: pxknh, b: 36), (a: htxwgxj, b: 36)]
+pxknh (36)
+htxwgxj (36)
+pqeso (116) -> @[(a: xgxea, b: 23), (a: gvjwj, b: 23), (a: grksx, b: 23)]
+xgxea (23)
+gvjwj (23)
+grksx (23)
+evliz (151) -> @[(a: nxtwjc, b: 17), (a: agpuxcs, b: 17)]
+nxtwjc (17)
+agpuxcs (17)
+uvvsl (67) -> @[(a: xlgffbd, b: 59), (a: zdbjk, b: 59)]
+xlgffbd (59)
+zdbjk (59)
+dnodp (148) -> @[(a: rxcyz, b: 172), (a: qfdlr, b: 172), (a: xavay, b: 172), (a: srofdd, b: 172)]
+rxcyz (80) -> @[(a: nbonyx, b: 46), (a: hmrbytx, b: 46)]
+nbonyx (46)
+hmrbytx (46)
+qfdlr (72) -> @[(a: zyybpa, b: 50), (a: zyqsny, b: 50)]
+zyybpa (50)
+zyqsny (50)
+xavay (8) -> @[(a: fibcigx, b: 82), (a: omvflhe, b: 82)]
+fibcigx (82)
+omvflhe (82)
+srofdd (90) -> @[(a: rtjzffy, b: 41), (a: qbjpr, b: 41)]
+rtjzffy (41)
+qbjpr (41)
+wuluv (27912) -> @[(a: atgrdn, b: 15252), (a: hdpqtg, b: 15252), (a: qidhm, b: 15252), (a: socuv, b: 15252), (a: boslv, b: 15252), (a: fcakejv, b: 15252)]
+atgrdn (90) -> @[(a: hfhqvb, b: 2527), (a: cprxbbf, b: 2527), (a: eqrmhiv, b: 2527), (a: rzhwl, b: 2527), (a: mzbvwk, b: 2527), (a: bncbco, b: 2527)]
+hfhqvb (2026) -> @[(a: sqsyxpe, b: 167), (a: iaeemxc, b: 167), (a: vuzuq, b: 167)]
+sqsyxpe (119) -> @[(a: djvozoc, b: 24), (a: otdcfi, b: 24)]
+djvozoc (24)
+otdcfi (24)
+iaeemxc (155) -> @[(a: pnxmraq, b: 6), (a: aqviuy, b: 6)]
+pnxmraq (6)
+aqviuy (6)
+vuzuq (23) -> @[(a: tbhdon, b: 72), (a: suakgk, b: 72)]
+tbhdon (72)
+suakgk (72)
+cprxbbf (1657) -> @[(a: dpqsg, b: 290), (a: myaznzp, b: 290), (a: yonamnd, b: 290)]
+dpqsg (290)
+myaznzp (162) -> @[(a: ffzpfp, b: 64), (a: xhidor, b: 64)]
+ffzpfp (64)
+xhidor (64)
+yonamnd (58) -> @[(a: knyhb, b: 58), (a: byhqi, b: 58), (a: vfkeogg, b: 58), (a: zoagmd, b: 58)]
+knyhb (58)
+byhqi (58)
+vfkeogg (58)
+zoagmd (58)
+eqrmhiv (55) -> @[(a: eiceooz, b: 412), (a: xuxuy, b: 412), (a: horeib, b: 412), (a: waznyo, b: 412), (a: ufryj, b: 412), (a: zbscr, b: 412)]
+eiceooz (412)
+xuxuy (224) -> @[(a: qkbflxg, b: 94), (a: tvlhxbd, b: 94)]
+qkbflxg (94)
+tvlhxbd (94)
+horeib (340) -> @[(a: jcpbsc, b: 36), (a: pcdpxv, b: 36)]
+jcpbsc (36)
+pcdpxv (36)
+waznyo (20) -> @[(a: rrhbmgi, b: 98), (a: dhltapo, b: 98), (a: wpwzlpm, b: 98), (a: kbclwl, b: 98)]
+rrhbmgi (98)
+dhltapo (98)
+wpwzlpm (98)
+kbclwl (98)
+ufryj (412)
+zbscr (378) -> @[(a: myfkdkl, b: 17), (a: wtpgz, b: 17)]
+myfkdkl (17)
+wtpgz (17)
+rzhwl (1936) -> @[(a: vmlmrk, b: 197), (a: ushmwu, b: 197), (a: tziitox, b: 197)]
+vmlmrk (109) -> @[(a: zpdcajt, b: 44), (a: hdfugh, b: 44)]
+zpdcajt (44)
+hdfugh (44)
+ushmwu (97) -> @[(a: niiwne, b: 50), (a: bdudb, b: 50)]
+niiwne (50)
+bdudb (50)
+tziitox (41) -> @[(a: mtlutxf, b: 78), (a: lukls, b: 78)]
+mtlutxf (78)
+lukls (78)
+mzbvwk (1081) -> @[(a: dynfb, b: 241), (a: qydug, b: 241), (a: rsebscc, b: 241), (a: fxucung, b: 241), (a: hldolxr, b: 241), (a: jbutmk, b: 241)]
+dynfb (131) -> @[(a: abnzhwd, b: 55), (a: fxrkpax, b: 55)]
+abnzhwd (55)
+fxrkpax (55)
+qydug (7) -> @[(a: xhyph, b: 78), (a: ogksb, b: 78), (a: efmrpp, b: 78)]
+xhyph (78)
+ogksb (78)
+efmrpp (78)
+rsebscc (109) -> @[(a: clxasb, b: 66), (a: ozacwy, b: 66)]
+clxasb (66)
+ozacwy (66)
+fxucung (63) -> @[(a: hkcuo, b: 89), (a: qvstpyq, b: 89)]
+hkcuo (89)
+qvstpyq (89)
+hldolxr (241)
+jbutmk (109) -> @[(a: qgnkn, b: 66), (a: tswgpqg, b: 66)]
+qgnkn (66)
+tswgpqg (66)
+bncbco (1876) -> @[(a: fdbnn, b: 217), (a: fiqgcz, b: 217), (a: tcyqi, b: 217)]
+fdbnn (61) -> @[(a: pvqmab, b: 78), (a: nhttnio, b: 78)]
+pvqmab (78)
+nhttnio (78)
+fiqgcz (217)
+tcyqi (77) -> @[(a: xtojoy, b: 70), (a: adkszk, b: 70)]
+xtojoy (70)
+adkszk (70)
+hdpqtg (10989) -> @[(a: nzbmqoj, b: 1421), (a: ppxmvic, b: 1421), (a: ngzrfo, b: 1421)]
+nzbmqoj (416) -> @[(a: fjgns, b: 335), (a: igbiz, b: 335), (a: iqefm, b: 335)]
+fjgns (149) -> @[(a: tmbuahz, b: 93), (a: wvtlu, b: 93)]
+tmbuahz (93)
+wvtlu (93)
+igbiz (77) -> @[(a: qcsqz, b: 86), (a: qtmszjy, b: 86), (a: hqqcmi, b: 86)]
+qcsqz (86)
+qtmszjy (86)
+hqqcmi (86)
+iqefm (211) -> @[(a: vftol, b: 62), (a: haphukg, b: 62)]
+vftol (62)
+haphukg (62)
+ppxmvic (45) -> @[(a: gynwzem, b: 344), (a: yhhzefl, b: 344), (a: eluqn, b: 344), (a: ncmsneu, b: 344)]
+gynwzem (92) -> @[(a: uhtmhy, b: 84), (a: yixmif, b: 84), (a: fppwvpe, b: 84)]
+uhtmhy (84)
+yixmif (84)
+fppwvpe (84)
+yhhzefl (272) -> @[(a: knnmsai, b: 24), (a: vhgtr, b: 24), (a: eolzkkc, b: 24)]
+knnmsai (24)
+vhgtr (24)
+eolzkkc (24)
+eluqn (226) -> @[(a: kikni, b: 59), (a: ytvsrny, b: 59)]
+kikni (59)
+ytvsrny (59)
+ncmsneu (344)
+ngzrfo (431) -> @[(a: pbebtfc, b: 198), (a: ndgra, b: 198), (a: texjaoa, b: 198), (a: cwqou, b: 198), (a: qnovi, b: 198)]
+pbebtfc (114) -> @[(a: bubcg, b: 42), (a: vaiqef, b: 42)]
+bubcg (42)
+vaiqef (42)
+ndgra (135) -> @[(a: ukzms, b: 21), (a: hrrxs, b: 21), (a: cilwhdb, b: 21)]
+ukzms (21)
+hrrxs (21)
+cilwhdb (21)
+texjaoa (104) -> @[(a: mpkijdc, b: 47), (a: lyqbnl, b: 47)]
+mpkijdc (47)
+lyqbnl (47)
+cwqou (69) -> @[(a: uajllsw, b: 43), (a: diwwjq, b: 43), (a: pvowck, b: 43)]
+uajllsw (43)
+diwwjq (43)
+pvowck (43)
+qnovi (140) -> @[(a: bykcfy, b: 29), (a: qosoqk, b: 29)]
+bykcfy (29)
+qosoqk (29)
+qidhm (4140) -> @[(a: svgfqs, b: 1852), (a: zyuuri, b: 1852), (a: ylysm, b: 1852), (a: psdcvl, b: 1852), (a: pfjpsxf, b: 1852), (a: pduiy, b: 1852)]
+svgfqs (1150) -> @[(a: lgpgt, b: 234), (a: ndpweps, b: 234), (a: qwqwp, b: 234)]
+lgpgt (114) -> @[(a: saqta, b: 60), (a: qjjjm, b: 60)]
+saqta (60)
+qjjjm (60)
+ndpweps (99) -> @[(a: wuuxzqy, b: 45), (a: jyuvjzz, b: 45), (a: xdgbnoj, b: 45)]
+wuuxzqy (45)
+jyuvjzz (45)
+xdgbnoj (45)
+qwqwp (160) -> @[(a: dvsntva, b: 37), (a: qmtfv, b: 37)]
+dvsntva (37)
+qmtfv (37)
+zyuuri (70) -> @[(a: jnenzeu, b: 297), (a: brsgom, b: 297), (a: xuknyi, b: 297), (a: ggttj, b: 297), (a: vbukg, b: 297), (a: lhcix, b: 297)]
+jnenzeu (171) -> @[(a: wqtcnyz, b: 63), (a: krfwuk, b: 63)]
+wqtcnyz (63)
+krfwuk (63)
+brsgom (111) -> @[(a: hatujsc, b: 93), (a: cmuclkp, b: 93)]
+hatujsc (93)
+cmuclkp (93)
+xuknyi (273) -> @[(a: gvotglo, b: 12), (a: dnaclwb, b: 12)]
+gvotglo (12)
+dnaclwb (12)
+ggttj (237) -> @[(a: ckrqr, b: 30), (a: kbqpd, b: 30)]
+ckrqr (30)
+kbqpd (30)
+vbukg (15) -> @[(a: npjbfxb, b: 94), (a: vyfkoc, b: 94), (a: invkz, b: 94)]
+npjbfxb (94)
+vyfkoc (94)
+invkz (94)
+lhcix (265) -> @[(a: jxmvpr, b: 8), (a: lagoq, b: 8), (a: bwpvsv, b: 8), (a: ehgnylr, b: 8)]
+jxmvpr (8)
+lagoq (8)
+bwpvsv (8)
+ehgnylr (8)
+ylysm (1333) -> @[(a: pmosxof, b: 173), (a: njhtc, b: 173), (a: vpdbtl, b: 173)]
+pmosxof (128) -> @[(a: kgiswh, b: 15), (a: flspx, b: 15), (a: qszzvq, b: 15)]
+kgiswh (15)
+flspx (15)
+qszzvq (15)
+njhtc (80) -> @[(a: gozszri, b: 31), (a: exqxh, b: 31), (a: gkctmh, b: 31)]
+gozszri (31)
+exqxh (31)
+gkctmh (31)
+vpdbtl (62) -> @[(a: dgebx, b: 37), (a: nmber, b: 37), (a: iodna, b: 37)]
+dgebx (37)
+nmber (37)
+iodna (37)
+psdcvl (202) -> @[(a: lgbltl, b: 275), (a: oriskzl, b: 275), (a: zazkyd, b: 275), (a: synlyuo, b: 275), (a: mwtqk, b: 275), (a: oryvzmp, b: 275)]
+lgbltl (110) -> @[(a: orlkabb, b: 55), (a: rguvpi, b: 55), (a: rgewan, b: 55)]
+orlkabb (55)
+rguvpi (55)
+rgewan (55)
+oriskzl (20) -> @[(a: jyffs, b: 85), (a: jncodb, b: 85), (a: zzjgcli, b: 85)]
+jyffs (85)
+jncodb (85)
+zzjgcli (85)
+zazkyd (203) -> @[(a: vzylhou, b: 36), (a: ndvkjn, b: 36)]
+vzylhou (36)
+ndvkjn (36)
+synlyuo (165) -> @[(a: adzhm, b: 55), (a: ciizgft, b: 55)]
+adzhm (55)
+ciizgft (55)
+mwtqk (125) -> @[(a: lcuhsxu, b: 75), (a: mnepu, b: 75)]
+lcuhsxu (75)
+mnepu (75)
+oryvzmp (227) -> @[(a: mcihl, b: 24), (a: buhmvt, b: 24)]
+mcihl (24)
+buhmvt (24)
+pfjpsxf (1714) -> @[(a: uchxwm, b: 69), (a: ohpvb, b: 69)]
+uchxwm (69)
+ohpvb (69)
+pduiy (1736) -> @[(a: dgfjw, b: 58), (a: xqyyotm, b: 58)]
+dgfjw (58)
+xqyyotm (58)
+socuv (6510) -> @[(a: tjvry, b: 2914), (a: ybqehu, b: 2914), (a: mapirt, b: 2914)]
+tjvry (2251) -> @[(a: mxxvvt, b: 221), (a: arugmz, b: 221), (a: umttqu, b: 221)]
+mxxvvt (69) -> @[(a: rxmxfno, b: 76), (a: hjibopk, b: 76)]
+rxmxfno (76)
+hjibopk (76)
+arugmz (67) -> @[(a: eflbhmn, b: 77), (a: gekwq, b: 77)]
+eflbhmn (77)
+gekwq (77)
+umttqu (221)
+ybqehu (16) -> @[(a: qtwaod, b: 414), (a: uwnwx, b: 414), (a: vzgkr, b: 414), (a: aywwpfz, b: 414), (a: kpbdkq, b: 414), (a: hbjrjw, b: 414), (a: sxlkxs, b: 414)]
+qtwaod (228) -> @[(a: tdxve, b: 93), (a: dsoipkq, b: 93)]
+tdxve (93)
+dsoipkq (93)
+uwnwx (171) -> @[(a: czmxofi, b: 81), (a: tmmbh, b: 81), (a: engsa, b: 81)]
+czmxofi (81)
+tmmbh (81)
+engsa (81)
+vzgkr (294) -> @[(a: rguht, b: 60), (a: lnxxnux, b: 60)]
+rguht (60)
+lnxxnux (60)
+aywwpfz (352) -> @[(a: bsqbqtw, b: 31), (a: ygfyhh, b: 31)]
+bsqbqtw (31)
+ygfyhh (31)
+kpbdkq (260) -> @[(a: lczyx, b: 77), (a: ncffowp, b: 77)]
+lczyx (77)
+ncffowp (77)
+hbjrjw (26) -> @[(a: dkuds, b: 97), (a: qtyeiv, b: 97), (a: hobchva, b: 97), (a: ltfxsl, b: 97)]
+dkuds (97)
+qtyeiv (97)
+hobchva (97)
+ltfxsl (97)
+sxlkxs (314) -> @[(a: vclbj, b: 50), (a: tjqiwyw, b: 50)]
+vclbj (50)
+tjqiwyw (50)
+mapirt (2822) -> @[(a: djwizu, b: 46), (a: dbxgdw, b: 46)]
+djwizu (46)
+dbxgdw (46)
+boslv (10868) -> @[(a: ygeeepa, b: 1096), (a: asiigv, b: 1096), (a: jiorqgn, b: 1096), (a: fnbpxoq, b: 1096)]
+ygeeepa (32) -> @[(a: hywytz, b: 266), (a: ehyzqx, b: 266), (a: kavzymu, b: 266), (a: krtdc, b: 266)]
+hywytz (162) -> @[(a: amrvw, b: 52), (a: gzxpx, b: 52)]
+amrvw (52)
+gzxpx (52)
+ehyzqx (70) -> @[(a: havmcsf, b: 98), (a: xhzdo, b: 98)]
+havmcsf (98)
+xhzdo (98)
+kavzymu (248) -> @[(a: vgfve, b: 9), (a: letus, b: 9)]
+vgfve (9)
+letus (9)
+krtdc (266)
+asiigv (25) -> @[(a: fbebcq, b: 357), (a: lchstmy, b: 357), (a: ciwydtl, b: 357)]
+fbebcq (233) -> @[(a: ilzfg, b: 31), (a: vqbvnf, b: 31), (a: idyiyg, b: 31), (a: tifpswp, b: 31)]
+ilzfg (31)
+vqbvnf (31)
+idyiyg (31)
+tifpswp (31)
+lchstmy (319) -> @[(a: hhtpv, b: 19), (a: fgjcea, b: 19)]
+hhtpv (19)
+fgjcea (19)
+ciwydtl (65) -> @[(a: ezzzomx, b: 73), (a: fmele, b: 73), (a: luxtn, b: 73), (a: uclzjin, b: 73)]
+ezzzomx (73)
+fmele (73)
+luxtn (73)
+uclzjin (73)
+jiorqgn (136) -> @[(a: dbdne, b: 192), (a: pnejfr, b: 192), (a: qfjnebk, b: 192), (a: uoezmkf, b: 192), (a: dqrwhri, b: 192)]
+dbdne (39) -> @[(a: zyneso, b: 51), (a: svxpof, b: 51), (a: mtwbsrl, b: 51)]
+zyneso (51)
+svxpof (51)
+mtwbsrl (51)
+pnejfr (122) -> @[(a: humrsd, b: 35), (a: fxrtldx, b: 35)]
+humrsd (35)
+fxrtldx (35)
+qfjnebk (86) -> @[(a: hlfvf, b: 53), (a: qcyua, b: 53)]
+hlfvf (53)
+qcyua (53)
+uoezmkf (66) -> @[(a: kiismq, b: 42), (a: rycova, b: 42), (a: nozqe, b: 42)]
+kiismq (42)
+rycova (42)
+nozqe (42)
+dqrwhri (178) -> @[(a: iztdlnf, b: 7), (a: hhjgskh, b: 7)]
+iztdlnf (7)
+hhjgskh (7)
+fnbpxoq (646) -> @[(a: fscnkbm, b: 150), (a: ygzyhpx, b: 150), (a: buplvox, b: 150)]
+fscnkbm (100) -> @[(a: kyspusd, b: 25), (a: iipyba, b: 25)]
+kyspusd (25)
+iipyba (25)
+ygzyhpx (84) -> @[(a: gzsltcw, b: 33), (a: fhsxx, b: 33)]
+gzsltcw (33)
+fhsxx (33)
+buplvox (42) -> @[(a: xzxsnus, b: 54), (a: azpwos, b: 54)]
+xzxsnus (54)
+azpwos (54)
+fcakejv (4140) -> @[(a: ykrdbmw, b: 2778), (a: jzklwrz, b: 2778), (a: kjfmxih, b: 2778), (a: wlppp, b: 2778)]
+ykrdbmw (66) -> @[(a: ptvuev, b: 452), (a: juahc, b: 452), (a: mnrsu, b: 452), (a: eqzjl, b: 452), (a: oseerig, b: 452), (a: ufcaif, b: 452)]
+ptvuev (302) -> @[(a: yplyevo, b: 75), (a: dptzp, b: 75)]
+yplyevo (75)
+dptzp (75)
+juahc (264) -> @[(a: vrghbl, b: 94), (a: bdlkkll, b: 94)]
+vrghbl (94)
+bdlkkll (94)
+mnrsu (96) -> @[(a: dvnzgo, b: 89), (a: slkkm, b: 89), (a: xxcpmu, b: 89), (a: izvfjt, b: 89)]
+dvnzgo (89)
+slkkm (89)
+xxcpmu (89)
+izvfjt (89)
+eqzjl (185) -> @[(a: albxmd, b: 89), (a: fdetm, b: 89), (a: ctjyra, b: 89)]
+albxmd (89)
+fdetm (89)
+ctjyra (89)
+oseerig (410) -> @[(a: haazrx, b: 21), (a: aqcscz, b: 21)]
+haazrx (21)
+aqcscz (21)
+ufcaif (408) -> @[(a: ffimin, b: 22), (a: fohnt, b: 22)]
+ffimin (22)
+fohnt (22)
+jzklwrz (1218) -> @[(a: ocspnqg, b: 260), (a: zrmtgk, b: 260), (a: dfxox, b: 260), (a: qpbqzwi, b: 260), (a: uwgomw, b: 260), (a: hobrps, b: 260)]
+ocspnqg (84) -> @[(a: kpdms, b: 44), (a: ucjde, b: 44), (a: pgozvs, b: 44), (a: joryqqt, b: 44)]
+kpdms (44)
+ucjde (44)
+pgozvs (44)
+joryqqt (44)
+zrmtgk (62) -> @[(a: wobzkg, b: 99), (a: hvjal, b: 99)]
+wobzkg (99)
+hvjal (99)
+dfxox (146) -> @[(a: horkr, b: 38), (a: wemcfwy, b: 38), (a: ljcjmur, b: 38)]
+horkr (38)
+wemcfwy (38)
+ljcjmur (38)
+qpbqzwi (84) -> @[(a: pkrbgb, b: 88), (a: hxhkfs, b: 88)]
+pkrbgb (88)
+hxhkfs (88)
+uwgomw (260)
+hobrps (112) -> @[(a: epaztgn, b: 74), (a: mkisdq, b: 74)]
+epaztgn (74)
+mkisdq (74)
+kjfmxih (2163) -> @[(a: nuomen, b: 205), (a: ufyxgmv, b: 205), (a: fumcav, b: 205)]
+nuomen (121) -> @[(a: hdaii, b: 21), (a: zfufrfx, b: 21), (a: noksmmp, b: 21), (a: fcpmz, b: 21)]
+hdaii (21)
+zfufrfx (21)
+noksmmp (21)
+fcpmz (21)
+ufyxgmv (73) -> @[(a: xjkzvpn, b: 66), (a: tvzbk, b: 66)]
+xjkzvpn (66)
+tvzbk (66)
+fumcav (205)
+wlppp (2421) -> @[(a: jiybk, b: 119), (a: ctebhmp, b: 119), (a: vgwkv, b: 119)]
+jiybk (49) -> @[(a: nnmcrj, b: 35), (a: vsyhi, b: 35)]
+nnmcrj (35)
+vsyhi (35)
+ctebhmp (119)
+vgwkv (93) -> @[(a: tuzpg, b: 13), (a: zzgvh, b: 13)]
+tuzpg (13)
+zzgvh (13)
+uwmocg (72774) -> @[(a: npwjod, b: 7775), (a: fmqxggg, b: 7775), (a: tkaax, b: 7775), (a: tbpyoxy, b: 7775), (a: mefsxl, b: 7775), (a: hhxofiu, b: 7775)]
+npwjod (7625) -> @[(a: ryxauy, b: 50), (a: fzrfow, b: 50), (a: xhpbaer, b: 50)]
+ryxauy (28) -> @[(a: slaiad, b: 11), (a: njogs, b: 11)]
+slaiad (11)
+njogs (11)
+fzrfow (32) -> @[(a: dntzv, b: 9), (a: qaosty, b: 9)]
+dntzv (9)
+qaosty (9)
+xhpbaer (32) -> @[(a: zgjabut, b: 9), (a: oivlxtz, b: 9)]
+zgjabut (9)
+oivlxtz (9)
+fmqxggg (6539) -> @[(a: jzlquwl, b: 206), (a: oipjur, b: 206), (a: slvkou, b: 206), (a: pjpfvqe, b: 206), (a: gcjdpx, b: 206), (a: ebtkonx, b: 206)]
+jzlquwl (65) -> @[(a: ymnissn, b: 47), (a: kkeqyo, b: 47), (a: fozofs, b: 47)]
+ymnissn (47)
+kkeqyo (47)
+fozofs (47)
+oipjur (178) -> @[(a: cipzed, b: 14), (a: ijhzbaa, b: 14)]
+cipzed (14)
+ijhzbaa (14)
+slvkou (42) -> @[(a: xcdycx, b: 82), (a: dplpd, b: 82)]
+xcdycx (82)
+dplpd (82)
+pjpfvqe (8) -> @[(a: arhfcx, b: 99), (a: hgqsp, b: 99)]
+arhfcx (99)
+hgqsp (99)
+gcjdpx (8) -> @[(a: dntxe, b: 99), (a: grvkl, b: 99)]
+dntxe (99)
+grvkl (99)
+ebtkonx (158) -> @[(a: fmdxpvz, b: 24), (a: fdgvmi, b: 24)]
+fmdxpvz (24)
+fdgvmi (24)
+tkaax (7058) -> @[(a: msajn, b: 239), (a: czsnue, b: 239), (a: kfgafaq, b: 239)]
+msajn (129) -> @[(a: qasbblg, b: 55), (a: yuiqntx, b: 55)]
+qasbblg (55)
+yuiqntx (55)
+czsnue (183) -> @[(a: durpmst, b: 28), (a: olosbi, b: 28)]
+durpmst (28)
+olosbi (28)
+kfgafaq (95) -> @[(a: anqaz, b: 72), (a: mwbzjrn, b: 72)]
+anqaz (72)
+mwbzjrn (72)
+tbpyoxy (5672) -> @[(a: tfwcyid, b: 701), (a: szqdnd, b: 701), (a: lkmcvop, b: 701)]
+tfwcyid (293) -> @[(a: ajqaniw, b: 136), (a: accqde, b: 136), (a: fwzkvc, b: 136)]
+ajqaniw (48) -> @[(a: uzowuwt, b: 44), (a: dxtne, b: 44)]
+uzowuwt (44)
+dxtne (44)
+accqde (92) -> @[(a: kdbbkg, b: 22), (a: vzcyoxl, b: 22)]
+kdbbkg (22)
+vzcyoxl (22)
+fwzkvc (66) -> @[(a: lrkttbz, b: 35), (a: dwuakz, b: 35)]
+lrkttbz (35)
+dwuakz (35)
+szqdnd (284) -> @[(a: xxsxwrm, b: 139), (a: eaemp, b: 139), (a: alpoep, b: 139)]
+xxsxwrm (15) -> @[(a: eonodgj, b: 62), (a: eulpqss, b: 62)]
+eonodgj (62)
+eulpqss (62)
+eaemp (7) -> @[(a: rdssp, b: 44), (a: evgddir, b: 44), (a: sdfdasw, b: 44)]
+rdssp (44)
+evgddir (44)
+sdfdasw (44)
+alpoep (51) -> @[(a: wammii, b: 44), (a: svpwz, b: 44)]
+wammii (44)
+svpwz (44)
+lkmcvop (35) -> @[(a: zpqlfyn, b: 222), (a: twgajx, b: 222), (a: yafxw, b: 222)]
+zpqlfyn (80) -> @[(a: skxcsro, b: 71), (a: uelcs, b: 71)]
+skxcsro (71)
+uelcs (71)
+twgajx (174) -> @[(a: uokfe, b: 12), (a: oircg, b: 12), (a: wirzgw, b: 12), (a: tenzlo, b: 12)]
+uokfe (12)
+oircg (12)
+wirzgw (12)
+tenzlo (12)
+yafxw (130) -> @[(a: lpxcjq, b: 46), (a: qxkcxj, b: 46)]
+lpxcjq (46)
+qxkcxj (46)
+mefsxl (5015) -> @[(a: ixlerg, b: 920), (a: uoujbtv, b: 920), (a: khjbclb, b: 920)]
+ixlerg (852) -> @[(a: nnysyj, b: 34), (a: shdht, b: 34)]
+nnysyj (34)
+shdht (34)
+uoujbtv (32) -> @[(a: bowxedw, b: 222), (a: eberpkh, b: 222), (a: zqignj, b: 222), (a: qzhgmb, b: 222)]
+bowxedw (144) -> @[(a: qdoevfi, b: 39), (a: epnfp, b: 39)]
+qdoevfi (39)
+epnfp (39)
+eberpkh (62) -> @[(a: bzeyrs, b: 80), (a: ahotpd, b: 80)]
+bzeyrs (80)
+ahotpd (80)
+zqignj (136) -> @[(a: mamhdgl, b: 43), (a: fesyd, b: 43)]
+mamhdgl (43)
+fesyd (43)
+qzhgmb (222)
+khjbclb (581) -> @[(a: tespp, b: 113), (a: kmjbuf, b: 113), (a: phcizz, b: 113)]
+tespp (113)
+kmjbuf (51) -> @[(a: kebxaum, b: 31), (a: dfmrhz, b: 31)]
+kebxaum (31)
+dfmrhz (31)
+phcizz (93) -> @[(a: olmzxu, b: 10), (a: efkixrq, b: 10)]
+olmzxu (10)
+efkixrq (10)
+hhxofiu (80) -> @[(a: tmejjp, b: 2565), (a: srqipi, b: 2565), (a: jpsoy, b: 2565)]
+tmejjp (45) -> @[(a: rvgcgd, b: 360), (a: leccfrx, b: 360), (a: pyfps, b: 360), (a: dnqxg, b: 360), (a: uxpirup, b: 360), (a: mvice, b: 360), (a: kwikqd, b: 360)]
+rvgcgd (332) -> @[(a: kwfghyi, b: 7), (a: gvajepy, b: 7), (a: seztb, b: 7), (a: dntft, b: 7)]
+kwfghyi (7)
+gvajepy (7)
+seztb (7)
+dntft (7)
+leccfrx (8) -> @[(a: jzeeng, b: 88), (a: vdlhr, b: 88), (a: kazqqf, b: 88), (a: cnvce, b: 88)]
+jzeeng (88)
+vdlhr (88)
+kazqqf (88)
+cnvce (88)
+pyfps (184) -> @[(a: csvhlkb, b: 88), (a: simlgvw, b: 88)]
+csvhlkb (88)
+simlgvw (88)
+dnqxg (348) -> @[(a: qlbapm, b: 6), (a: xhljlrn, b: 6)]
+qlbapm (6)
+xhljlrn (6)
+uxpirup (318) -> @[(a: bbojh, b: 21), (a: ghobjvb, b: 21)]
+bbojh (21)
+ghobjvb (21)
+mvice (298) -> @[(a: ftnzxce, b: 31), (a: mkuow, b: 31)]
+ftnzxce (31)
+mkuow (31)
+kwikqd (274) -> @[(a: jdnia, b: 43), (a: wdjpqq, b: 43)]
+jdnia (43)
+wdjpqq (43)
+srqipi (1107) -> @[(a: uxxwj, b: 243), (a: tgxpafk, b: 243), (a: sfdtqc, b: 243), (a: konmvry, b: 243), (a: tflcc, b: 243), (a: ngbnryz, b: 243)]
+uxxwj (215) -> @[(a: gkuqwak, b: 14), (a: qqesw, b: 14)]
+gkuqwak (14)
+qqesw (14)
+tgxpafk (107) -> @[(a: hivkyyy, b: 68), (a: vdxdq, b: 68)]
+hivkyyy (68)
+vdxdq (68)
+sfdtqc (63) -> @[(a: jqmpf, b: 90), (a: mlkbqhk, b: 90)]
+jqmpf (90)
+mlkbqhk (90)
+konmvry (135) -> @[(a: kwonpn, b: 54), (a: mklrsr, b: 54)]
+kwonpn (54)
+mklrsr (54)
+tflcc (201) -> @[(a: fmzpc, b: 21), (a: upstldy, b: 21)]
+fmzpc (21)
+upstldy (21)
+ngbnryz (85) -> @[(a: okvaid, b: 79), (a: djblaef, b: 79)]
+okvaid (79)
+djblaef (79)
+jpsoy (1570) -> @[(a: sewtbk, b: 199), (a: mofllk, b: 199), (a: txhcyqf, b: 199), (a: tkntd, b: 199), (a: oqqnazv, b: 199)]
+sewtbk (123) -> @[(a: zddbivo, b: 38), (a: esyatlt, b: 38)]
+zddbivo (38)
+esyatlt (38)
+mofllk (131) -> @[(a: lyfsi, b: 34), (a: rybovf, b: 34)]
+lyfsi (34)
+rybovf (34)
+txhcyqf (91) -> @[(a: cnyyygq, b: 54), (a: iuuhcc, b: 54)]
+cnyyygq (54)
+iuuhcc (54)
+tkntd (45) -> @[(a: fscqnmn, b: 77), (a: fodfvds, b: 77)]
+fscqnmn (77)
+fodfvds (77)
+oqqnazv (71) -> @[(a: pjrtj, b: 64), (a: godqs, b: 64)]
+pjrtj (64)
+godqs (64)
+xtcpynj (31920) -> @[(a: tixcp, b: 14584), (a: wlkzwch, b: 14584), (a: sclfvp, b: 14584), (a: nafrtm, b: 14584), (a: vozeer, b: 14584), (a: ocowqvd, b: 14584)]
+tixcp (14140) -> @[(a: qoyhxl, b: 148), (a: jgvsp, b: 148), (a: zwtnf, b: 148)]
+qoyhxl (72) -> @[(a: vgqxpp, b: 38), (a: phqtbfn, b: 38)]
+vgqxpp (38)
+phqtbfn (38)
+jgvsp (52) -> @[(a: jeqlbxq, b: 48), (a: kzjdhi, b: 48)]
+jeqlbxq (48)
+kzjdhi (48)
+zwtnf (108) -> @[(a: zhhhbv, b: 20), (a: qpkxs, b: 20)]
+zhhhbv (20)
+qpkxs (20)
+wlkzwch (87) -> @[(a: axouzs, b: 2071), (a: bkjpa, b: 2071), (a: opath, b: 2071), (a: wpxaup, b: 2071), (a: ejehv, b: 2071), (a: qdnmni, b: 2071), (a: uggjwfl, b: 2071)]
+axouzs (199) -> @[(a: urvwum, b: 312), (a: blafijn, b: 312), (a: ytacid, b: 312), (a: ysbjlf, b: 312), (a: qmnykar, b: 312), (a: vebuhzt, b: 312)]
+urvwum (170) -> @[(a: ytmnrjw, b: 71), (a: fkcwv, b: 71)]
+ytmnrjw (71)
+fkcwv (71)
+blafijn (262) -> @[(a: lwuxii, b: 25), (a: qfmofym, b: 25)]
+lwuxii (25)
+qfmofym (25)
+ytacid (51) -> @[(a: upjvowk, b: 87), (a: sgmtal, b: 87), (a: ldfun, b: 87)]
+upjvowk (87)
+sgmtal (87)
+ldfun (87)
+ysbjlf (144) -> @[(a: pyaco, b: 84), (a: leaohjx, b: 84)]
+pyaco (84)
+leaohjx (84)
+qmnykar (244) -> @[(a: aurya, b: 34), (a: rpnlu, b: 34)]
+aurya (34)
+rpnlu (34)
+vebuhzt (136) -> @[(a: eyfds, b: 88), (a: nhylqxq, b: 88)]
+eyfds (88)
+nhylqxq (88)
+bkjpa (626) -> @[(a: zbtgzh, b: 289), (a: jalyzrg, b: 289), (a: ppmjk, b: 289), (a: lliow, b: 289), (a: ydwtc, b: 289)]
+zbtgzh (52) -> @[(a: zeien, b: 79), (a: gszkqio, b: 79), (a: iwgtul, b: 79)]
+zeien (79)
+gszkqio (79)
+iwgtul (79)
+jalyzrg (189) -> @[(a: socgh, b: 50), (a: nqdab, b: 50)]
+socgh (50)
+nqdab (50)
+ppmjk (289)
+lliow (117) -> @[(a: pbdoak, b: 86), (a: rwelv, b: 86)]
+pbdoak (86)
+rwelv (86)
+ydwtc (219) -> @[(a: gxpdbf, b: 35), (a: otsaip, b: 35)]
+gxpdbf (35)
+otsaip (35)
+opath (91) -> @[(a: fdozub, b: 330), (a: dsnwpy, b: 330), (a: vvbijk, b: 330), (a: osdwzw, b: 330), (a: rxmvx, b: 330), (a: icmfzt, b: 330)]
+fdozub (58) -> @[(a: ytbmfpn, b: 68), (a: fprpmof, b: 68), (a: hqgbfvn, b: 68), (a: yzvarwz, b: 68)]
+ytbmfpn (68)
+fprpmof (68)
+hqgbfvn (68)
+yzvarwz (68)
+dsnwpy (330)
+vvbijk (212) -> @[(a: eznjfl, b: 59), (a: zjthm, b: 59)]
+eznjfl (59)
+zjthm (59)
+osdwzw (330)
+rxmvx (234) -> @[(a: ljpyq, b: 32), (a: xbnbi, b: 32), (a: uwisk, b: 32)]
+ljpyq (32)
+xbnbi (32)
+uwisk (32)
+icmfzt (288) -> @[(a: jldxskr, b: 14), (a: zbbyckg, b: 14), (a: teuhjl, b: 14)]
+jldxskr (14)
+zbbyckg (14)
+teuhjl (14)
+wpxaup (975) -> @[(a: jijmyu, b: 274), (a: ejjdfwk, b: 274), (a: jsrmk, b: 274), (a: ofshfcn, b: 274)]
+jijmyu (274)
+ejjdfwk (82) -> @[(a: tkjff, b: 96), (a: ncfpaw, b: 96)]
+tkjff (96)
+ncfpaw (96)
+jsrmk (7) -> @[(a: yukbvwy, b: 89), (a: tvunonh, b: 89), (a: yysvm, b: 89)]
+yukbvwy (89)
+tvunonh (89)
+yysvm (89)
+ofshfcn (274)
+ejehv (1135) -> @[(a: owxcxd, b: 312), (a: nvbococ, b: 312), (a: pmkcwxd, b: 312)]
+owxcxd (243) -> @[(a: eppcdr, b: 23), (a: lkfhfri, b: 23), (a: ytjuerk, b: 23)]
+eppcdr (23)
+lkfhfri (23)
+ytjuerk (23)
+nvbococ (118) -> @[(a: bkhnhga, b: 97), (a: nmlmm, b: 97)]
+bkhnhga (97)
+nmlmm (97)
+pmkcwxd (81) -> @[(a: ksizuia, b: 77), (a: ayrmwy, b: 77), (a: uutzk, b: 77)]
+ksizuia (77)
+ayrmwy (77)
+uutzk (77)
+qdnmni (482) -> @[(a: sjvdfk, b: 227), (a: gabcawj, b: 227), (a: qxvpaqr, b: 227), (a: gfrdgnq, b: 227), (a: joutwz, b: 227), (a: jfakaii, b: 227), (a: cvmlcyx, b: 227)]
+sjvdfk (89) -> @[(a: zvefixb, b: 69), (a: ftomb, b: 69)]
+zvefixb (69)
+ftomb (69)
+gabcawj (159) -> @[(a: gxlcwkl, b: 34), (a: vnrwmwp, b: 34)]
+gxlcwkl (34)
+vnrwmwp (34)
+qxvpaqr (183) -> @[(a: dhgfms, b: 11), (a: gjbeou, b: 11), (a: phyop, b: 11), (a: sfevya, b: 11)]
+dhgfms (11)
+gjbeou (11)
+phyop (11)
+sfevya (11)
+gfrdgnq (135) -> @[(a: aiqug, b: 46), (a: eelcez, b: 46)]
+aiqug (46)
+eelcez (46)
+joutwz (215) -> @[(a: wxeki, b: 6), (a: jlcvhl, b: 6)]
+wxeki (6)
+jlcvhl (6)
+jfakaii (209) -> @[(a: azxmib, b: 9), (a: dmayk, b: 9)]
+azxmib (9)
+dmayk (9)
+cvmlcyx (65) -> @[(a: lkjkrj, b: 81), (a: dslabn, b: 81)]
+lkjkrj (81)
+dslabn (81)
+uggjwfl (1393) -> @[(a: kvsnv, b: 226), (a: ksledpc, b: 226), (a: lzbzre, b: 226)]
+kvsnv (134) -> @[(a: oaiipqw, b: 46), (a: wohmy, b: 46)]
+oaiipqw (46)
+wohmy (46)
+ksledpc (146) -> @[(a: tqefb, b: 40), (a: oglut, b: 40)]
+tqefb (40)
+oglut (40)
+lzbzre (97) -> @[(a: vjhja, b: 43), (a: obctcme, b: 43), (a: yaeee, b: 43)]
+vjhja (43)
+obctcme (43)
+yaeee (43)
+sclfvp (7741) -> @[(a: psmlok, b: 2281), (a: kgjmfr, b: 2281), (a: grqfud, b: 2281)]
+psmlok (55) -> @[(a: hbabeiy, b: 318), (a: xcfvrz, b: 318), (a: lujwkxl, b: 318), (a: tgtwgnl, b: 318), (a: ueacv, b: 318), (a: fqorpj, b: 318), (a: ennlusa, b: 318)]
+hbabeiy (300) -> @[(a: nfomnyt, b: 9), (a: kuqmkzc, b: 9)]
+nfomnyt (9)
+kuqmkzc (9)
+xcfvrz (226) -> @[(a: vcjhxmu, b: 46), (a: ikefepo, b: 46)]
+vcjhxmu (46)
+ikefepo (46)
+lujwkxl (54) -> @[(a: bkcozk, b: 66), (a: bcxne, b: 66), (a: mvhybn, b: 66), (a: ipgrte, b: 66)]
+bkcozk (66)
+bcxne (66)
+mvhybn (66)
+ipgrte (66)
+tgtwgnl (272) -> @[(a: hkjbbs, b: 23), (a: nuuvgid, b: 23)]
+hkjbbs (23)
+nuuvgid (23)
+ueacv (192) -> @[(a: ygzvz, b: 63), (a: wgbupli, b: 63)]
+ygzvz (63)
+wgbupli (63)
+fqorpj (174) -> @[(a: cltigxi, b: 48), (a: ntgdq, b: 48), (a: lehkqty, b: 48)]
+cltigxi (48)
+ntgdq (48)
+lehkqty (48)
+ennlusa (138) -> @[(a: eedcta, b: 45), (a: mzmyto, b: 45), (a: pgmctro, b: 45), (a: eakfc, b: 45)]
+eedcta (45)
+mzmyto (45)
+pgmctro (45)
+eakfc (45)
+kgjmfr (1582) -> @[(a: ooixr, b: 233), (a: amzaq, b: 233), (a: hrdvx, b: 233)]
+ooixr (55) -> @[(a: pmhmqfc, b: 89), (a: eevia, b: 89)]
+pmhmqfc (89)
+eevia (89)
+amzaq (59) -> @[(a: jmrry, b: 87), (a: plexk, b: 87)]
+jmrry (87)
+plexk (87)
+hrdvx (191) -> @[(a: dcdxxv, b: 21), (a: uhjzmx, b: 21)]
+dcdxxv (21)
+uhjzmx (21)
+grqfud (823) -> @[(a: wopvp, b: 243), (a: ccyflwf, b: 243), (a: usmhoj, b: 243), (a: hlnram, b: 243), (a: oyyfhxh, b: 243), (a: bneqef, b: 243)]
+wopvp (231) -> @[(a: mfngva, b: 6), (a: dmawkm, b: 6)]
+mfngva (6)
+dmawkm (6)
+ccyflwf (111) -> @[(a: spnkurd, b: 66), (a: slbun, b: 66)]
+spnkurd (66)
+slbun (66)
+usmhoj (159) -> @[(a: vommsj, b: 42), (a: fhpik, b: 42)]
+vommsj (42)
+fhpik (42)
+hlnram (31) -> @[(a: cdcdck, b: 53), (a: wnjdsq, b: 53), (a: nfpawkr, b: 53), (a: vybjgy, b: 53)]
+cdcdck (53)
+wnjdsq (53)
+nfpawkr (53)
+vybjgy (53)
+oyyfhxh (84) -> @[(a: togddow, b: 53), (a: dtjuno, b: 53), (a: twhnzo, b: 53)]
+togddow (53)
+dtjuno (53)
+twhnzo (53)
+bneqef (141) -> @[(a: iaxvd, b: 51), (a: aocbwq, b: 51)]
+iaxvd (51)
+aocbwq (51)
+nafrtm (2458) -> @[(a: gpkgkv, b: 2021), (a: vuqcpir, b: 2021), (a: jvegsv, b: 2021), (a: xhorr, b: 2021), (a: rzsxtev, b: 2021), (a: xksfmz, b: 2021)]
+gpkgkv (59) -> @[(a: aqbybws, b: 327), (a: zzlgja, b: 327), (a: ajjyaog, b: 327), (a: qkgtzy, b: 327), (a: pqrcl, b: 327), (a: gimjz, b: 327)]
+aqbybws (315) -> @[(a: ydxsq, b: 6), (a: tekqjru, b: 6)]
+ydxsq (6)
+tekqjru (6)
+zzlgja (27) -> @[(a: boclo, b: 75), (a: eywfs, b: 75), (a: tskeqa, b: 75), (a: gbyblhe, b: 75)]
+boclo (75)
+eywfs (75)
+tskeqa (75)
+gbyblhe (75)
+ajjyaog (327)
+qkgtzy (204) -> @[(a: trwyel, b: 41), (a: kptbzl, b: 41), (a: fxaom, b: 41)]
+trwyel (41)
+kptbzl (41)
+fxaom (41)
+pqrcl (171) -> @[(a: ojdlcls, b: 78), (a: dmbdxs, b: 78)]
+ojdlcls (78)
+dmbdxs (78)
+gimjz (201) -> @[(a: vaxierg, b: 63), (a: feope, b: 63)]
+vaxierg (63)
+feope (63)
+vuqcpir (1823) -> @[(a: uljiu, b: 99), (a: qignfgc, b: 99)]
+uljiu (99)
+qignfgc (99)
+jvegsv (701) -> @[(a: wpgdv, b: 264), (a: xxpnqpc, b: 264), (a: yqcwdh, b: 264), (a: brxjw, b: 264), (a: yqigck, b: 264)]
+wpgdv (168) -> @[(a: wcfgubc, b: 32), (a: akwdkl, b: 32), (a: skvcg, b: 32)]
+wcfgubc (32)
+akwdkl (32)
+skvcg (32)
+xxpnqpc (224) -> @[(a: ksuydd, b: 20), (a: pmxdc, b: 20)]
+ksuydd (20)
+pmxdc (20)
+yqcwdh (80) -> @[(a: rfmbo, b: 92), (a: frvqvlo, b: 92)]
+rfmbo (92)
+frvqvlo (92)
+brxjw (120) -> @[(a: bkjhdgy, b: 72), (a: pafuvtn, b: 72)]
+bkjhdgy (72)
+pafuvtn (72)
+yqigck (264)
+xhorr (2011) -> @[(a: egoaw, b: 5), (a: twbcuh, b: 5)]
+egoaw (5)
+twbcuh (5)
+rzsxtev (419) -> @[(a: kqiupp, b: 267), (a: gxgnzi, b: 267), (a: glveid, b: 267), (a: iyqzno, b: 267), (a: fhfcmv, b: 267), (a: crxpc, b: 267)]
+kqiupp (157) -> @[(a: vbysnql, b: 55), (a: xyfclte, b: 55)]
+vbysnql (55)
+xyfclte (55)
+gxgnzi (186) -> @[(a: lmrhhj, b: 27), (a: uaofl, b: 27), (a: yiipi, b: 27)]
+lmrhhj (27)
+uaofl (27)
+yiipi (27)
+glveid (267)
+iyqzno (59) -> @[(a: jbhoa, b: 52), (a: dteoa, b: 52), (a: qemad, b: 52), (a: mtjcqtg, b: 52)]
+jbhoa (52)
+dteoa (52)
+qemad (52)
+mtjcqtg (52)
+fhfcmv (131) -> @[(a: ctpac, b: 68), (a: iaaws, b: 68)]
+ctpac (68)
+iaaws (68)
+crxpc (153) -> @[(a: beqyys, b: 57), (a: empap, b: 57)]
+beqyys (57)
+empap (57)
+xksfmz (1213) -> @[(a: wacijzk, b: 202), (a: pvesfah, b: 202), (a: anobpj, b: 202), (a: vounq, b: 202)]
+wacijzk (202)
+pvesfah (202)
+anobpj (152) -> @[(a: ykdkp, b: 25), (a: pyfyx, b: 25)]
+ykdkp (25)
+pyfyx (25)
+vounq (42) -> @[(a: ounsg, b: 40), (a: rbhzdm, b: 40), (a: serls, b: 40), (a: ygqzh, b: 40)]
+ounsg (40)
+rbhzdm (40)
+serls (40)
+ygqzh (40)
+vozeer (10879) -> @[(a: rejewfv, b: 1235), (a: fnkxzn, b: 1235), (a: xxardb, b: 1235)]
+rejewfv (71) -> @[(a: rfuqci, b: 388), (a: oyuep, b: 388), (a: lfveq, b: 388)]
+rfuqci (64) -> @[(a: xjhfgv, b: 81), (a: omqxa, b: 81), (a: obkparr, b: 81), (a: izxkgl, b: 81)]
+xjhfgv (81)
+omqxa (81)
+obkparr (81)
+izxkgl (81)
+oyuep (270) -> @[(a: xsdlmg, b: 59), (a: xvbezu, b: 59)]
+xsdlmg (59)
+xvbezu (59)
+lfveq (292) -> @[(a: jgrigjx, b: 24), (a: oiyohma, b: 24), (a: qumhu, b: 24), (a: dttxe, b: 24)]
+jgrigjx (24)
+oiyohma (24)
+qumhu (24)
+dttxe (24)
+fnkxzn (1197) -> @[(a: mwmguqn, b: 19), (a: igjhbnk, b: 19)]
+mwmguqn (19)
+igjhbnk (19)
+xxardb (1219) -> @[(a: ifhntf, b: 8), (a: pulfop, b: 8)]
+ifhntf (8)
+pulfop (8)
+ocowqvd (7522) -> @[(a: vgffruy, b: 2354), (a: ykjng, b: 2354), (a: hlabv, b: 2354)]
+vgffruy (98) -> @[(a: yaueae, b: 376), (a: lpflvwn, b: 376), (a: qirikp, b: 376), (a: xzjcbwa, b: 376), (a: kshtume, b: 376), (a: voanano, b: 376)]
+yaueae (352) -> @[(a: sdvzj, b: 12), (a: wfnrlgo, b: 12)]
+sdvzj (12)
+wfnrlgo (12)
+lpflvwn (296) -> @[(a: iqvvnfr, b: 40), (a: pedazr, b: 40)]
+iqvvnfr (40)
+pedazr (40)
+qirikp (91) -> @[(a: koqnz, b: 95), (a: mbora, b: 95), (a: ltfsqn, b: 95)]
+koqnz (95)
+mbora (95)
+ltfsqn (95)
+xzjcbwa (376)
+kshtume (300) -> @[(a: jatvuw, b: 38), (a: uxmjz, b: 38)]
+jatvuw (38)
+uxmjz (38)
+voanano (320) -> @[(a: zfavz, b: 28), (a: smttd, b: 28)]
+zfavz (28)
+smttd (28)
+ykjng (1685) -> @[(a: kukkmrx, b: 223), (a: xriycgo, b: 223), (a: djdiyl, b: 223)]
+kukkmrx (223)
+xriycgo (121) -> @[(a: fkuvh, b: 51), (a: showzx, b: 51)]
+fkuvh (51)
+showzx (51)
+djdiyl (51) -> @[(a: zyxswnx, b: 86), (a: maykdnd, b: 86)]
+zyxswnx (86)
+maykdnd (86)
+hlabv (1742) -> @[(a: qxvfq, b: 204), (a: vpesyi, b: 204), (a: untiezr, b: 204)]
+qxvfq (204)
+vpesyi (204)
+untiezr (6) -> @[(a: erzpzd, b: 66), (a: movvd, b: 66), (a: ecrkcs, b: 66)]
+erzpzd (66)
+movvd (66)
+ecrkcs (66)
+Mismatch! qjvtm: 12146 != 12154
+qjvtm (82986) -> @[(a: myfhxk, b: 12146), (a: boropxd, b: 12154), (a: jixdvf, b: 12146)]
+myfhxk (38) -> @[(a: cyenkm, b: 2018), (a: elqgxm, b: 2018), (a: uxjzpl, b: 2018), (a: ujdhpxh, b: 2018), (a: ukzcbat, b: 2018), (a: ykphap, b: 2018)]
+cyenkm (1226) -> @[(a: gkpirl, b: 264), (a: alvji, b: 264), (a: orofe, b: 264)]
+gkpirl (162) -> @[(a: vbrwu, b: 51), (a: tnjkbcd, b: 51)]
+vbrwu (51)
+tnjkbcd (51)
+alvji (226) -> @[(a: pxgfxbt, b: 19), (a: klflx, b: 19)]
+pxgfxbt (19)
+klflx (19)
+orofe (52) -> @[(a: oxpur, b: 53), (a: ullgsq, b: 53), (a: texqz, b: 53), (a: bssnhty, b: 53)]
+oxpur (53)
+ullgsq (53)
+texqz (53)
+bssnhty (53)
+elqgxm (1472) -> @[(a: thdermn, b: 182), (a: fnjqvc, b: 182), (a: zrovx, b: 182)]
+thdermn (50) -> @[(a: uzasvyd, b: 66), (a: zgnyiz, b: 66)]
+uzasvyd (66)
+zgnyiz (66)
+fnjqvc (150) -> @[(a: jlhly, b: 16), (a: buzsiye, b: 16)]
+jlhly (16)
+buzsiye (16)
+zrovx (52) -> @[(a: nvdducc, b: 65), (a: sfopk, b: 65)]
+nvdducc (65)
+sfopk (65)
+uxjzpl (1247) -> @[(a: zwtuhb, b: 257), (a: jvaqrl, b: 257), (a: uajkvy, b: 257)]
+zwtuhb (187) -> @[(a: opilymx, b: 35), (a: racquh, b: 35)]
+opilymx (35)
+racquh (35)
+jvaqrl (87) -> @[(a: drenb, b: 85), (a: vpgxh, b: 85)]
+drenb (85)
+vpgxh (85)
+uajkvy (212) -> @[(a: odpuf, b: 15), (a: wyujf, b: 15), (a: pprsdm, b: 15)]
+odpuf (15)
+wyujf (15)
+pprsdm (15)
+ujdhpxh (78) -> @[(a: wxcas, b: 388), (a: sdhtcgx, b: 388), (a: vxbas, b: 388), (a: izllv, b: 388), (a: hldjtya, b: 388)]
+wxcas (256) -> @[(a: qrzofif, b: 66), (a: vdexe, b: 66)]
+qrzofif (66)
+vdexe (66)
+sdhtcgx (388)
+vxbas (304) -> @[(a: cyzobwd, b: 21), (a: juaekax, b: 21), (a: axbupt, b: 21), (a: mwikxz, b: 21)]
+cyzobwd (21)
+juaekax (21)
+axbupt (21)
+mwikxz (21)
+izllv (121) -> @[(a: hohmn, b: 89), (a: oufzuw, b: 89), (a: ixdxwhj, b: 89)]
+hohmn (89)
+oufzuw (89)
+ixdxwhj (89)
+hldjtya (48) -> @[(a: xxzzr, b: 85), (a: navzdpq, b: 85), (a: vgbxwsh, b: 85), (a: xhoytye, b: 85)]
+xxzzr (85)
+navzdpq (85)
+vgbxwsh (85)
+xhoytye (85)
+ukzcbat (884) -> @[(a: rxhmtg, b: 378), (a: iojycd, b: 378), (a: mpjvq, b: 378)]
+rxhmtg (244) -> @[(a: puzsftr, b: 67), (a: qhbwsiu, b: 67)]
+puzsftr (67)
+qhbwsiu (67)
+iojycd (158) -> @[(a: frmmub, b: 55), (a: mjjvkh, b: 55), (a: xeblqw, b: 55), (a: wrrdy, b: 55)]
+frmmub (55)
+mjjvkh (55)
+xeblqw (55)
+wrrdy (55)
+mpjvq (34) -> @[(a: pfsgds, b: 86), (a: xfbvid, b: 86), (a: iebfp, b: 86), (a: xmhokd, b: 86)]
+pfsgds (86)
+xfbvid (86)
+iebfp (86)
+xmhokd (86)
+ykphap (920) -> @[(a: ehpzl, b: 183), (a: jhahcgn, b: 183), (a: wmjxypj, b: 183), (a: izkcvii, b: 183), (a: riuhtpn, b: 183), (a: xfvxqr, b: 183)]
+ehpzl (87) -> @[(a: nzwdyjh, b: 48), (a: lxdlq, b: 48)]
+nzwdyjh (48)
+lxdlq (48)
+jhahcgn (19) -> @[(a: nzorq, b: 82), (a: sipdbpd, b: 82)]
+nzorq (82)
+sipdbpd (82)
+wmjxypj (151) -> @[(a: ykntwjm, b: 16), (a: fepdsz, b: 16)]
+ykntwjm (16)
+fepdsz (16)
+izkcvii (85) -> @[(a: jyjkwnc, b: 49), (a: yxxrv, b: 49)]
+jyjkwnc (49)
+yxxrv (49)
+riuhtpn (101) -> @[(a: ydapn, b: 41), (a: wuqhqm, b: 41)]
+ydapn (41)
+wuqhqm (41)
+xfvxqr (27) -> @[(a: bmckl, b: 78), (a: nexgspx, b: 78)]
+bmckl (78)
+nexgspx (78)
+Mismatch! boropxd: 1123 != 1131
+boropxd (4285) -> @[(a: slzaeep, b: 1123), (a: hiotqxu, b: 1123), (a: qppggd, b: 1123), (a: iahug, b: 1123), (a: cwwwj, b: 1131), (a: upfhsu, b: 1123), (a: jjlodie, b: 1123)]
+slzaeep (1023) -> @[(a: edshwfr, b: 50), (a: emuysfg, b: 50)]
+edshwfr (50)
+emuysfg (50)
+hiotqxu (877) -> @[(a: ohlhl, b: 82), (a: lpweyw, b: 82), (a: fgfhom, b: 82)]
+ohlhl (82)
+lpweyw (54) -> @[(a: syzptux, b: 14), (a: rruyk, b: 14)]
+syzptux (14)
+rruyk (14)
+fgfhom (22) -> @[(a: gbjzyvh, b: 20), (a: fgxaf, b: 20), (a: tvfhovv, b: 20)]
+gbjzyvh (20)
+fgxaf (20)
+tvfhovv (20)
+qppggd (171) -> @[(a: oxcth, b: 238), (a: enbtzt, b: 238), (a: ntidj, b: 238), (a: hmibku, b: 238)]
+oxcth (74) -> @[(a: wuezook, b: 82), (a: snpwaur, b: 82)]
+wuezook (82)
+snpwaur (82)
+enbtzt (62) -> @[(a: xxrcw, b: 88), (a: teuku, b: 88)]
+xxrcw (88)
+teuku (88)
+ntidj (214) -> @[(a: qoxcvs, b: 12), (a: ceixcl, b: 12)]
+qoxcvs (12)
+ceixcl (12)
+hmibku (44) -> @[(a: njlxjg, b: 97), (a: cdblpel, b: 97)]
+njlxjg (97)
+cdblpel (97)
+iahug (397) -> @[(a: waangt, b: 242), (a: nqijykz, b: 242), (a: pnhmvd, b: 242)]
+waangt (46) -> @[(a: ohgok, b: 98), (a: ydndqy, b: 98)]
+ohgok (98)
+ydndqy (98)
+nqijykz (168) -> @[(a: fmtzdw, b: 37), (a: jwrcrra, b: 37)]
+fmtzdw (37)
+jwrcrra (37)
+pnhmvd (242)
+cwwwj (201) -> @[(a: pdxgf, b: 310), (a: ugyebr, b: 310), (a: tillos, b: 310)]
+pdxgf (236) -> @[(a: khumo, b: 37), (a: qlxowz, b: 37)]
+khumo (37)
+qlxowz (37)
+ugyebr (82) -> @[(a: mgetjw, b: 57), (a: eecdh, b: 57), (a: fcxag, b: 57), (a: muburl, b: 57)]
+mgetjw (57)
+eecdh (57)
+fcxag (57)
+muburl (57)
+tillos (262) -> @[(a: zxqbpy, b: 24), (a: nntot, b: 24)]
+zxqbpy (24)
+nntot (24)
+upfhsu (27) -> @[(a: jukhdvi, b: 274), (a: lilufvg, b: 274), (a: rodfe, b: 274), (a: hvigowx, b: 274)]
+jukhdvi (116) -> @[(a: vkgbz, b: 79), (a: vktrdf, b: 79)]
+vkgbz (79)
+vktrdf (79)
+lilufvg (192) -> @[(a: qjool, b: 41), (a: eiynck, b: 41)]
+qjool (41)
+eiynck (41)
+rodfe (116) -> @[(a: svxrmhl, b: 79), (a: fpqfvd, b: 79)]
+svxrmhl (79)
+fpqfvd (79)
+hvigowx (97) -> @[(a: hujizfz, b: 59), (a: eoyva, b: 59), (a: sknxjo, b: 59)]
+hujizfz (59)
+eoyva (59)
+sknxjo (59)
+jjlodie (46) -> @[(a: jtxvw, b: 359), (a: cjwnq, b: 359), (a: mtpbt, b: 359)]
+jtxvw (80) -> @[(a: dgfqg, b: 93), (a: tcymb, b: 93), (a: rtjax, b: 93)]
+dgfqg (93)
+tcymb (93)
+rtjax (93)
+cjwnq (191) -> @[(a: uihbo, b: 84), (a: lqnskaj, b: 84)]
+uihbo (84)
+lqnskaj (84)
+mtpbt (152) -> @[(a: lrxhito, b: 69), (a: fvdoc, b: 69), (a: aauxa, b: 69)]
+lrxhito (69)
+fvdoc (69)
+aauxa (69)
+jixdvf (7598) -> @[(a: dohxzvo, b: 1516), (a: tsjzvs, b: 1516), (a: kvmjx, b: 1516)]
+dohxzvo (752) -> @[(a: vuxcbe, b: 191), (a: lczpqwp, b: 191), (a: pglsa, b: 191), (a: jntictz, b: 191)]
+vuxcbe (17) -> @[(a: tznvgv, b: 87), (a: yiqiioh, b: 87)]
+tznvgv (87)
+yiqiioh (87)
+lczpqwp (111) -> @[(a: nvvnxlx, b: 40), (a: qdkcyj, b: 40)]
+nvvnxlx (40)
+qdkcyj (40)
+pglsa (129) -> @[(a: wimpgm, b: 31), (a: wtcuxsp, b: 31)]
+wimpgm (31)
+wtcuxsp (31)
+jntictz (131) -> @[(a: ifengok, b: 20), (a: vkzhxfv, b: 20), (a: tsdgx, b: 20)]
+ifengok (20)
+vkzhxfv (20)
+tsdgx (20)
+tsjzvs (39) -> @[(a: grrmgdv, b: 211), (a: sczzyjo, b: 211), (a: jauxc, b: 211), (a: cqhxddr, b: 211), (a: vnxrh, b: 211), (a: mrucj, b: 211), (a: xvwkwsk, b: 211)]
+grrmgdv (151) -> @[(a: clbkb, b: 15), (a: pzbnrp, b: 15), (a: zaccgw, b: 15), (a: dnrle, b: 15)]
+clbkb (15)
+pzbnrp (15)
+zaccgw (15)
+dnrle (15)
+sczzyjo (167) -> @[(a: euaku, b: 22), (a: ytgdbn, b: 22)]
+euaku (22)
+ytgdbn (22)
+jauxc (17) -> @[(a: tuxctb, b: 97), (a: utnjrpg, b: 97)]
+tuxctb (97)
+utnjrpg (97)
+cqhxddr (211)
+vnxrh (63) -> @[(a: mqhwy, b: 74), (a: xecjyv, b: 74)]
+mqhwy (74)
+xecjyv (74)
+mrucj (211)
+xvwkwsk (211)
+kvmjx (850) -> @[(a: mjryqy, b: 222), (a: evofre, b: 222), (a: gfkxqmk, b: 222)]
+mjryqy (118) -> @[(a: qjamq, b: 52), (a: vgtvj, b: 52)]
+qjamq (52)
+vgtvj (52)
+evofre (192) -> @[(a: cbjyf, b: 15), (a: eifitp, b: 15)]
+cbjyf (15)
+eifitp (15)
+gfkxqmk (44) -> @[(a: nrufh, b: 89), (a: zymmhlb, b: 89)]
+nrufh (89)
+zymmhlb (89)
